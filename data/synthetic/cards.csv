@@ -1,0 +1,13 @@
+id,bank_id,name,network,card_type,annual_fee,source_url,is_active,created_at
+b4cbc629-3a1e-58c0-98a3-6abf1e95f100,263151f4-4cd2-54c6-ab11-45469a1a15b2,Vietcombank Cashback Plus,Visa,credit,800000.00,https://example.com/cards/1,true,2026-06-10T14:29:07+00:00
+c8ceed11-7ddd-5bf8-8e35-d2133d08c306,263151f4-4cd2-54c6-ab11-45469a1a15b2,Vietcombank Travel Signature,Visa,credit,1500000.00,https://example.com/cards/2,true,2026-06-10T14:29:07+00:00
+be369f64-957c-5d10-920a-be5cb898a322,b4490775-e742-56f5-97dc-4acdc9fc6ea9,Techcombank Everyday Rewards,Mastercard,credit,990000.00,https://example.com/cards/3,true,2026-06-10T14:29:07+00:00
+b6a805d2-f017-5c39-807f-ea91b044ed7c,b4490775-e742-56f5-97dc-4acdc9fc6ea9,Techcombank Dining Cashback,Visa,credit,900000.00,https://example.com/cards/4,true,2026-06-10T14:29:07+00:00
+cbbb0d5b-1db6-5f18-adb3-3778ab8c0a5a,7d24f013-273b-5418-a173-6bf47859d740,VPBank Online Cashback,Mastercard,credit,1200000.00,https://example.com/cards/5,true,2026-06-10T14:29:07+00:00
+eec6a2d8-2a1a-5c22-a1c2-f5be6e700961,7d24f013-273b-5418-a173-6bf47859d740,VPBank Family Care,Visa,credit,700000.00,https://example.com/cards/6,true,2026-06-10T14:29:07+00:00
+cc283eff-259a-50bd-8abb-79b9f8d90fbb,2334d773-ca10-5450-ba68-5007791948be,ACB Lifestyle,Visa,credit,600000.00,https://example.com/cards/7,true,2026-06-10T14:29:07+00:00
+decee33e-e2de-5b90-b3c2-0cb0cd81f422,2334d773-ca10-5450-ba68-5007791948be,ACB Travel Rewards,Mastercard,credit,1300000.00,https://example.com/cards/8,true,2026-06-10T14:29:07+00:00
+624da688-9432-5bdc-8e31-636e2eb7fc1d,d4592a62-e954-5269-af60-99b573442f87,MB Daily Cashback,JCB,credit,500000.00,https://example.com/cards/9,true,2026-06-10T14:29:07+00:00
+47c48a26-9bd6-5df1-b0d8-fd3880320c88,d4592a62-e954-5269-af60-99b573442f87,MB Premium Miles,Visa,credit,1600000.00,https://example.com/cards/10,true,2026-06-10T14:29:07+00:00
+8f1c2754-6fd1-56c8-be5c-9c3a9706e7fb,1ea47265-2b02-5157-aa63-714c59a4ff7d,TPBank Digital Cashback,Visa,credit,750000.00,https://example.com/cards/11,true,2026-06-10T14:29:07+00:00
+eb21831d-062b-5dff-b027-7de01c8e2bf5,1ea47265-2b02-5157-aa63-714c59a4ff7d,TPBank Health & Education,Mastercard,credit,850000.00,https://example.com/cards/12,true,2026-06-10T14:29:07+00:00

@@ -1,0 +1,915 @@
+code,description,category,is_active,valid_payment,created_at,updated_at
+0742,Veterinary Services,Miscellaneous shops,true,VM,2026-06-10T14:29:07+00:00,2026-06-10T14:29:07+00:00
+0763,Agricultural Cooperatives,Miscellaneous shops,true,VM,2026-06-10T14:29:07+00:00,2026-06-10T14:29:07+00:00
+0780,Horticultural and Landscaping Services,Miscellaneous shops,true,VM,2026-06-10T14:29:07+00:00,2026-06-10T14:29:07+00:00
+1520,General Contractors–Residential and Commercial,Miscellaneous shops,true,VM,2026-06-10T14:29:07+00:00,2026-06-10T14:29:07+00:00
+1711,"Air Conditioning, Heating and Plumbing Contractors",Miscellaneous shops,true,VM,2026-06-10T14:29:07+00:00,2026-06-10T14:29:07+00:00
+1731,Electrical Contractors,Miscellaneous shops,true,VM,2026-06-10T14:29:07+00:00,2026-06-10T14:29:07+00:00
+1740,"Insulation, Masonry, Plastering, Stonework and Tile Setting Contractors",Miscellaneous shops,true,VM,2026-06-10T14:29:07+00:00,2026-06-10T14:29:07+00:00
+1750,Carpentry Contractors,Miscellaneous shops,true,VM,2026-06-10T14:29:07+00:00,2026-06-10T14:29:07+00:00
+1761,"Roofing and Siding, Sheet Metal Work Contractors",Miscellaneous shops,true,VM,2026-06-10T14:29:07+00:00,2026-06-10T14:29:07+00:00
+1771,Concrete Work Contractors,Miscellaneous shops,true,VM,2026-06-10T14:29:07+00:00,2026-06-10T14:29:07+00:00
+1799,"Contractors, Special Trade Contractors–not elsewhere classified",Miscellaneous shops,true,VM,2026-06-10T14:29:07+00:00,2026-06-10T14:29:07+00:00
+2741,Miscellaneous Publishing and Printing,Miscellaneous shops,true,VM,2026-06-10T14:29:07+00:00,2026-06-10T14:29:07+00:00
+2791,"Typesetting, Plate Making and Related Services",Miscellaneous shops,true,VM,2026-06-10T14:29:07+00:00,2026-06-10T14:29:07+00:00
+2842,"Sanitation, Polishing and Specialty Cleaning Preparations",Miscellaneous shops,true,VM,2026-06-10T14:29:07+00:00,2026-06-10T14:29:07+00:00
+3000,United Airlines,Transportation services,true,VM,2026-06-10T14:29:07+00:00,2026-06-10T14:29:07+00:00
+3001,American Airlines,Transportation services,true,VM,2026-06-10T14:29:07+00:00,2026-06-10T14:29:07+00:00
+3002,Pan American,Miscellaneous shops,true,VM,2026-06-10T14:29:07+00:00,2026-06-10T14:29:07+00:00
+3003,Eurofly,Miscellaneous shops,true,VM,2026-06-10T14:29:07+00:00,2026-06-10T14:29:07+00:00
+3004,Dragon Airlines,Transportation services,true,VM,2026-06-10T14:29:07+00:00,2026-06-10T14:29:07+00:00
+3005,British Airways,Miscellaneous shops,true,VM,2026-06-10T14:29:07+00:00,2026-06-10T14:29:07+00:00
+3006,Japan Air Lines,Miscellaneous shops,true,VM,2026-06-10T14:29:07+00:00,2026-06-10T14:29:07+00:00
+3007,Air France,Miscellaneous shops,true,VM,2026-06-10T14:29:07+00:00,2026-06-10T14:29:07+00:00
+3008,Lufthansa German Airlines,Transportation services,true,VM,2026-06-10T14:29:07+00:00,2026-06-10T14:29:07+00:00
+3009,Air Canada,Miscellaneous shops,true,VM,2026-06-10T14:29:07+00:00,2026-06-10T14:29:07+00:00
+3010,Royal Dutch Airlines (KLM Airlines),Transportation services,true,VM,2026-06-10T14:29:07+00:00,2026-06-10T14:29:07+00:00
+3011,Aeroflot,Miscellaneous shops,true,VM,2026-06-10T14:29:07+00:00,2026-06-10T14:29:07+00:00
+3012,Qantas,Miscellaneous shops,true,VM,2026-06-10T14:29:07+00:00,2026-06-10T14:29:07+00:00
+3013,Alitalia,Miscellaneous shops,true,VM,2026-06-10T14:29:07+00:00,2026-06-10T14:29:07+00:00
+3014,Saudi Arabian Airlines,Transportation services,true,VM,2026-06-10T14:29:07+00:00,2026-06-10T14:29:07+00:00
+3015,Swiss International Air Lines,Miscellaneous shops,true,VM,2026-06-10T14:29:07+00:00,2026-06-10T14:29:07+00:00
+3016,Scandinavian Airline System (SAS),Miscellaneous shops,true,VM,2026-06-10T14:29:07+00:00,2026-06-10T14:29:07+00:00
+3017,South African Airways,Miscellaneous shops,true,VM,2026-06-10T14:29:07+00:00,2026-06-10T14:29:07+00:00
+3018,Varig,Miscellaneous shops,true,VM,2026-06-10T14:29:07+00:00,2026-06-10T14:29:07+00:00
+3019,Germanwings,Miscellaneous shops,true,TSYS,2026-06-10T14:29:07+00:00,2026-06-10T14:29:07+00:00
+3020,Air India,Miscellaneous shops,true,VM,2026-06-10T14:29:07+00:00,2026-06-10T14:29:07+00:00
+3021,Air Algerie,Miscellaneous shops,true,VM,2026-06-10T14:29:07+00:00,2026-06-10T14:29:07+00:00
+3022,Philippine Airlines,Transportation services,true,VM,2026-06-10T14:29:07+00:00,2026-06-10T14:29:07+00:00
+3023,Mexicana,Miscellaneous shops,true,VM,2026-06-10T14:29:07+00:00,2026-06-10T14:29:07+00:00
+3024,Pakistan International,Miscellaneous shops,true,VM,2026-06-10T14:29:07+00:00,2026-06-10T14:29:07+00:00
+3025,Air New Zealand Ltd. International,Miscellaneous shops,true,VM,2026-06-10T14:29:07+00:00,2026-06-10T14:29:07+00:00
+3026,Emirates Airlines,Transportation services,true,VM,2026-06-10T14:29:07+00:00,2026-06-10T14:29:07+00:00
+3027,Union De Transports Aeriens (UTA/interair),Transportation services,true,VM,2026-06-10T14:29:07+00:00,2026-06-10T14:29:07+00:00
+3028,Air Malta,Miscellaneous shops,true,VM,2026-06-10T14:29:07+00:00,2026-06-10T14:29:07+00:00
+3029,SN Brussels Airlines,Transportation services,true,VM,2026-06-10T14:29:07+00:00,2026-06-10T14:29:07+00:00
+3030,Aerolineas Argentinas,Miscellaneous shops,true,VM,2026-06-10T14:29:07+00:00,2026-06-10T14:29:07+00:00
+3031,Olympic Airways,Miscellaneous shops,true,VM,2026-06-10T14:29:07+00:00,2026-06-10T14:29:07+00:00
+3032,El Al,Miscellaneous shops,true,VM,2026-06-10T14:29:07+00:00,2026-06-10T14:29:07+00:00
+3033,Ansett Airlines,Transportation services,true,VM,2026-06-10T14:29:07+00:00,2026-06-10T14:29:07+00:00
+3034,Etihadair,Miscellaneous shops,true,VM,2026-06-10T14:29:07+00:00,2026-06-10T14:29:07+00:00
+3035,TAP Air Portugal (TAP),Miscellaneous shops,true,VM,2026-06-10T14:29:07+00:00,2026-06-10T14:29:07+00:00
+3036,Viacao Aerea Sao Pãulo (VASP),Miscellaneous shops,true,VM,2026-06-10T14:29:07+00:00,2026-06-10T14:29:07+00:00
+3037,Egyptair,Miscellaneous shops,true,VM,2026-06-10T14:29:07+00:00,2026-06-10T14:29:07+00:00
+3038,Kuwait Airways,Miscellaneous shops,true,VM,2026-06-10T14:29:07+00:00,2026-06-10T14:29:07+00:00
+3039,Avianca,Miscellaneous shops,true,VM,2026-06-10T14:29:07+00:00,2026-06-10T14:29:07+00:00
+3040,Gulf Air (Bahrain),Miscellaneous shops,true,VM,2026-06-10T14:29:07+00:00,2026-06-10T14:29:07+00:00
+3041,Balkan-Bulgarian Airlines,Transportation services,true,VM,2026-06-10T14:29:07+00:00,2026-06-10T14:29:07+00:00
+3042,Finnair,Miscellaneous shops,true,VM,2026-06-10T14:29:07+00:00,2026-06-10T14:29:07+00:00
+3043,Aer Lingus,Miscellaneous shops,true,VM,2026-06-10T14:29:07+00:00,2026-06-10T14:29:07+00:00
+3044,Air Lanka,Miscellaneous shops,true,VM,2026-06-10T14:29:07+00:00,2026-06-10T14:29:07+00:00
+3045,Nigeria Airways,Miscellaneous shops,true,VM,2026-06-10T14:29:07+00:00,2026-06-10T14:29:07+00:00
+3046,Cruzeiro Do Sul,Miscellaneous shops,true,VM,2026-06-10T14:29:07+00:00,2026-06-10T14:29:07+00:00
+3047,Turk Hava Yollari,Miscellaneous shops,true,VM,2026-06-10T14:29:07+00:00,2026-06-10T14:29:07+00:00
+3048,Royal Air Maroc,Miscellaneous shops,true,VM,2026-06-10T14:29:07+00:00,2026-06-10T14:29:07+00:00
+3049,Tunis Air,Miscellaneous shops,true,VM,2026-06-10T14:29:07+00:00,2026-06-10T14:29:07+00:00
+3050,Icelandair,Miscellaneous shops,true,VM,2026-06-10T14:29:07+00:00,2026-06-10T14:29:07+00:00
+3051,Austrian Airlines,Transportation services,true,VM,2026-06-10T14:29:07+00:00,2026-06-10T14:29:07+00:00
+3052,LAN Airlines,Transportation services,true,VM,2026-06-10T14:29:07+00:00,2026-06-10T14:29:07+00:00
+3053,Aviacion Y Comercio (AVIACO),Miscellaneous shops,true,VM,2026-06-10T14:29:07+00:00,2026-06-10T14:29:07+00:00
+3054,Linea Aerea Del Cobre (LADECO),Miscellaneous shops,true,VM,2026-06-10T14:29:07+00:00,2026-06-10T14:29:07+00:00
+3055,Lloyd Aero Boliviano (LAB),Miscellaneous shops,true,VM,2026-06-10T14:29:07+00:00,2026-06-10T14:29:07+00:00
+3056,Jet Airways,Miscellaneous shops,true,VM,2026-06-10T14:29:07+00:00,2026-06-10T14:29:07+00:00
+3057,Virgin America,Miscellaneous shops,true,VM,2026-06-10T14:29:07+00:00,2026-06-10T14:29:07+00:00
+3058,Delta,Miscellaneous shops,true,VM,2026-06-10T14:29:07+00:00,2026-06-10T14:29:07+00:00
+3059,DBA Airline,Miscellaneous shops,true,VM,2026-06-10T14:29:07+00:00,2026-06-10T14:29:07+00:00
+3060,Northwest Airlines,Transportation services,true,VM,2026-06-10T14:29:07+00:00,2026-06-10T14:29:07+00:00
+3061,Continental,Miscellaneous shops,true,VM,2026-06-10T14:29:07+00:00,2026-06-10T14:29:07+00:00
+3062,Hapag-Lloyd Express,Miscellaneous shops,true,VM,2026-06-10T14:29:07+00:00,2026-06-10T14:29:07+00:00
+3063,US Airways,Miscellaneous shops,true,VM,2026-06-10T14:29:07+00:00,2026-06-10T14:29:07+00:00
+3064,Adria Airways,Miscellaneous shops,true,VM,2026-06-10T14:29:07+00:00,2026-06-10T14:29:07+00:00
+3065,Airinter,Miscellaneous shops,true,VM,2026-06-10T14:29:07+00:00,2026-06-10T14:29:07+00:00
+3066,Southwest Airlines,Transportation services,true,VM,2026-06-10T14:29:07+00:00,2026-06-10T14:29:07+00:00
+3067,Vanguard Airlines,Transportation services,true,VM,2026-06-10T14:29:07+00:00,2026-06-10T14:29:07+00:00
+3068,Air Astana,Miscellaneous shops,true,VM,2026-06-10T14:29:07+00:00,2026-06-10T14:29:07+00:00
+3069,Sun Country Airlines,Transportation services,true,VM,2026-06-10T14:29:07+00:00,2026-06-10T14:29:07+00:00
+3071,Air British Columbia,Miscellaneous shops,true,VM,2026-06-10T14:29:07+00:00,2026-06-10T14:29:07+00:00
+3072,Cebu Pacific Airlines,Transportation services,true,VM,2026-06-10T14:29:07+00:00,2026-06-10T14:29:07+00:00
+3075,Singapore Airlines,Transportation services,true,VM,2026-06-10T14:29:07+00:00,2026-06-10T14:29:07+00:00
+3076,Aeromexico,Miscellaneous shops,true,VM,2026-06-10T14:29:07+00:00,2026-06-10T14:29:07+00:00
+3077,Thai Airways,Miscellaneous shops,true,VM,2026-06-10T14:29:07+00:00,2026-06-10T14:29:07+00:00
+3078,China Airlines,Transportation services,true,VM,2026-06-10T14:29:07+00:00,2026-06-10T14:29:07+00:00
+3079,Jetstar Airways,Miscellaneous shops,true,VM,2026-06-10T14:29:07+00:00,2026-06-10T14:29:07+00:00
+3081,NordAir,Miscellaneous shops,true,TSYS,2026-06-10T14:29:07+00:00,2026-06-10T14:29:07+00:00
+3082,Korean Airlines,Transportation services,true,VM,2026-06-10T14:29:07+00:00,2026-06-10T14:29:07+00:00
+3083,Air Afrique,Miscellaneous shops,true,VM,2026-06-10T14:29:07+00:00,2026-06-10T14:29:07+00:00
+3084,Eva Airways,Miscellaneous shops,true,VM,2026-06-10T14:29:07+00:00,2026-06-10T14:29:07+00:00
+3085,Midwest Express Airlines,Transportation services,true,VM,2026-06-10T14:29:07+00:00,2026-06-10T14:29:07+00:00
+3086,Carnival Airlines,Transportation services,true,V,2026-06-10T14:29:07+00:00,2026-06-10T14:29:07+00:00
+3087,Metro Airlines,Transportation services,true,VM,2026-06-10T14:29:07+00:00,2026-06-10T14:29:07+00:00
+3088,Croatia Air,Miscellaneous shops,true,VM,2026-06-10T14:29:07+00:00,2026-06-10T14:29:07+00:00
+3089,Transaero,Miscellaneous shops,true,VM,2026-06-10T14:29:07+00:00,2026-06-10T14:29:07+00:00
+3090,Uni Airways Corporation,Miscellaneous shops,true,VM,2026-06-10T14:29:07+00:00,2026-06-10T14:29:07+00:00
+3094,Zambia Airways,Miscellaneous shops,true,VM,2026-06-10T14:29:07+00:00,2026-06-10T14:29:07+00:00
+3096,Air Zimbabwe Corp,Miscellaneous shops,true,VM,2026-06-10T14:29:07+00:00,2026-06-10T14:29:07+00:00
+3097,Spanair,Miscellaneous shops,true,VM,2026-06-10T14:29:07+00:00,2026-06-10T14:29:07+00:00
+3098,Asiana Airlines,Transportation services,true,VM,2026-06-10T14:29:07+00:00,2026-06-10T14:29:07+00:00
+3099,Cathay Pacific,Miscellaneous shops,true,VM,2026-06-10T14:29:07+00:00,2026-06-10T14:29:07+00:00
+3100,Malaysian Airline System,Miscellaneous shops,true,VM,2026-06-10T14:29:07+00:00,2026-06-10T14:29:07+00:00
+3102,Iberia,Miscellaneous shops,true,VM,2026-06-10T14:29:07+00:00,2026-06-10T14:29:07+00:00
+3103,Garuda,Miscellaneous shops,true,VM,2026-06-10T14:29:07+00:00,2026-06-10T14:29:07+00:00
+3106,Braathens S.A.F.E.,Miscellaneous shops,true,VM,2026-06-10T14:29:07+00:00,2026-06-10T14:29:07+00:00
+3110,Wings Airways,Miscellaneous shops,true,V,2026-06-10T14:29:07+00:00,2026-06-10T14:29:07+00:00
+3111,British Midland,Miscellaneous shops,true,VM,2026-06-10T14:29:07+00:00,2026-06-10T14:29:07+00:00
+3112,Windward Island,Miscellaneous shops,true,VM,2026-06-10T14:29:07+00:00,2026-06-10T14:29:07+00:00
+3115,Tower Air,Miscellaneous shops,true,VM,2026-06-10T14:29:07+00:00,2026-06-10T14:29:07+00:00
+3117,Venezolana International De Aviacion,Miscellaneous shops,true,VM,2026-06-10T14:29:07+00:00,2026-06-10T14:29:07+00:00
+3118,Valley Airlines,Transportation services,true,VM,2026-06-10T14:29:07+00:00,2026-06-10T14:29:07+00:00
+3125,Tan Sahsa,Miscellaneous shops,true,VM,2026-06-10T14:29:07+00:00,2026-06-10T14:29:07+00:00
+3126,Talair PTY Ltd.,Miscellaneous shops,true,V,2026-06-10T14:29:07+00:00,2026-06-10T14:29:07+00:00
+3127,Taca International,Miscellaneous shops,true,VM,2026-06-10T14:29:07+00:00,2026-06-10T14:29:07+00:00
+3129,Surinam Airways,Miscellaneous shops,true,VM,2026-06-10T14:29:07+00:00,2026-06-10T14:29:07+00:00
+3130,Sunworld International,Miscellaneous shops,true,VM,2026-06-10T14:29:07+00:00,2026-06-10T14:29:07+00:00
+3131,VLM Airlines,Transportation services,true,VM,2026-06-10T14:29:07+00:00,2026-06-10T14:29:07+00:00
+3132,Frontier Airlines,Transportation services,true,VM,2026-06-10T14:29:07+00:00,2026-06-10T14:29:07+00:00
+3133,Sunbelt Airlines,Transportation services,true,V,2026-06-10T14:29:07+00:00,2026-06-10T14:29:07+00:00
+3135,Sudan Airways,Miscellaneous shops,true,V,2026-06-10T14:29:07+00:00,2026-06-10T14:29:07+00:00
+3136,Qatar Airways,Miscellaneous shops,true,VM,2026-06-10T14:29:07+00:00,2026-06-10T14:29:07+00:00
+3137,Singleton,Miscellaneous shops,true,V,2026-06-10T14:29:07+00:00,2026-06-10T14:29:07+00:00
+3138,Simmons Airlines,Transportation services,true,V,2026-06-10T14:29:07+00:00,2026-06-10T14:29:07+00:00
+3143,Scenic Airlines,Transportation services,true,V,2026-06-10T14:29:07+00:00,2026-06-10T14:29:07+00:00
+3144,Virgin Atlantic,Miscellaneous shops,true,VM,2026-06-10T14:29:07+00:00,2026-06-10T14:29:07+00:00
+3145,San Juan,Miscellaneous shops,true,V,2026-06-10T14:29:07+00:00,2026-06-10T14:29:07+00:00
+3146,Luxair,Miscellaneous shops,true,VM,2026-06-10T14:29:07+00:00,2026-06-10T14:29:07+00:00
+3148,Air Littoral S.A.,Miscellaneous shops,true,VM,2026-06-10T14:29:07+00:00,2026-06-10T14:29:07+00:00
+3151,Air Zaire,Miscellaneous shops,true,VM,2026-06-10T14:29:07+00:00,2026-06-10T14:29:07+00:00
+3154,Princeville,Miscellaneous shops,true,V,2026-06-10T14:29:07+00:00,2026-06-10T14:29:07+00:00
+3156,Go Fly Ltd.,Miscellaneous shops,true,VM,2026-06-10T14:29:07+00:00,2026-06-10T14:29:07+00:00
+3159,Provincetown-Boston Airways,Miscellaneous shops,true,VM,2026-06-10T14:29:07+00:00,2026-06-10T14:29:07+00:00
+3161,All Nipon Airways,Miscellaneous shops,true,VM,2026-06-10T14:29:07+00:00,2026-06-10T14:29:07+00:00
+3164,Norontair,Miscellaneous shops,true,VM,2026-06-10T14:29:07+00:00,2026-06-10T14:29:07+00:00
+3165,New York Helicopter,Miscellaneous shops,true,V,2026-06-10T14:29:07+00:00,2026-06-10T14:29:07+00:00
+3167,Aero Continente,Miscellaneous shops,true,VM,2026-06-10T14:29:07+00:00,2026-06-10T14:29:07+00:00
+3170,Mount Cook,Miscellaneous shops,true,V,2026-06-10T14:29:07+00:00,2026-06-10T14:29:07+00:00
+3171,Canadian Airlines International,Transportation services,true,VM,2026-06-10T14:29:07+00:00,2026-06-10T14:29:07+00:00
+3172,Nationair,Miscellaneous shops,true,VM,2026-06-10T14:29:07+00:00,2026-06-10T14:29:07+00:00
+3174,Jetblue Airways,Miscellaneous shops,true,VM,2026-06-10T14:29:07+00:00,2026-06-10T14:29:07+00:00
+3175,Middle East Air,Miscellaneous shops,true,VM,2026-06-10T14:29:07+00:00,2026-06-10T14:29:07+00:00
+3176,Metroflight Airlines,Transportation services,true,V,2026-06-10T14:29:07+00:00,2026-06-10T14:29:07+00:00
+3177,AirTran Airways,Miscellaneous shops,true,VM,2026-06-10T14:29:07+00:00,2026-06-10T14:29:07+00:00
+3178,Mesa Air,Miscellaneous shops,true,VM,2026-06-10T14:29:07+00:00,2026-06-10T14:29:07+00:00
+3180,Westjet Airlines,Transportation services,true,VM,2026-06-10T14:29:07+00:00,2026-06-10T14:29:07+00:00
+3181,Malev,Miscellaneous shops,true,VM,2026-06-10T14:29:07+00:00,2026-06-10T14:29:07+00:00
+3182,LOT (Polish Airlines),Transportation services,true,VM,2026-06-10T14:29:07+00:00,2026-06-10T14:29:07+00:00
+3183,Oman Air,Miscellaneous shops,true,VM,2026-06-10T14:29:07+00:00,2026-06-10T14:29:07+00:00
+3184,LIAT,Miscellaneous shops,true,VM,2026-06-10T14:29:07+00:00,2026-06-10T14:29:07+00:00
+3185,Linea Aeropostal Venezolana (LAV),Miscellaneous shops,true,VM,2026-06-10T14:29:07+00:00,2026-06-10T14:29:07+00:00
+3186,Lineas Aereas Paraguayas (LAP),Miscellaneous shops,true,VM,2026-06-10T14:29:07+00:00,2026-06-10T14:29:07+00:00
+3187,LACSA (Costa Rica),Miscellaneous shops,true,VM,2026-06-10T14:29:07+00:00,2026-06-10T14:29:07+00:00
+3188,Virgin Express,Miscellaneous shops,true,VM,2026-06-10T14:29:07+00:00,2026-06-10T14:29:07+00:00
+3190,Jugoslav Air,Miscellaneous shops,true,VM,2026-06-10T14:29:07+00:00,2026-06-10T14:29:07+00:00
+3191,Island Airlines,Transportation services,true,VM,2026-06-10T14:29:07+00:00,2026-06-10T14:29:07+00:00
+3193,Indian Airlines,Transportation services,true,VM,2026-06-10T14:29:07+00:00,2026-06-10T14:29:07+00:00
+3196,Hawaiian Air,Miscellaneous shops,true,VM,2026-06-10T14:29:07+00:00,2026-06-10T14:29:07+00:00
+3197,Havasu Airlines,Transportation services,true,VM,2026-06-10T14:29:07+00:00,2026-06-10T14:29:07+00:00
+3200,Guyana Airways,Miscellaneous shops,true,VM,2026-06-10T14:29:07+00:00,2026-06-10T14:29:07+00:00
+3203,Golden Pacific Air,Miscellaneous shops,true,V,2026-06-10T14:29:07+00:00,2026-06-10T14:29:07+00:00
+3204,Freedom Airlines,Transportation services,true,VM,2026-06-10T14:29:07+00:00,2026-06-10T14:29:07+00:00
+3206,China Eastern Airlines,Transportation services,true,VM,2026-06-10T14:29:07+00:00,2026-06-10T14:29:07+00:00
+3211,Norwegian Air Shuttle,Miscellaneous shops,true,VM,2026-06-10T14:29:07+00:00,2026-06-10T14:29:07+00:00
+3212,Dominicana De Aviacion,Miscellaneous shops,true,VM,2026-06-10T14:29:07+00:00,2026-06-10T14:29:07+00:00
+3213,Malmo Aviation,Miscellaneous shops,true,VM,2026-06-10T14:29:07+00:00,2026-06-10T14:29:07+00:00
+3215,Dan Air Services,Miscellaneous shops,true,V,2026-06-10T14:29:07+00:00,2026-06-10T14:29:07+00:00
+3216,Cumberland Airlines,Transportation services,true,V,2026-06-10T14:29:07+00:00,2026-06-10T14:29:07+00:00
+3217,Ceskoslovenske Aerolinie (CSA),Miscellaneous shops,true,VM,2026-06-10T14:29:07+00:00,2026-06-10T14:29:07+00:00
+3218,Crown Air,Miscellaneous shops,true,V,2026-06-10T14:29:07+00:00,2026-06-10T14:29:07+00:00
+3219,Compania Panamena De Aviacion (COPA),Miscellaneous shops,true,VM,2026-06-10T14:29:07+00:00,2026-06-10T14:29:07+00:00
+3220,Compania Faucett,Miscellaneous shops,true,VM,2026-06-10T14:29:07+00:00,2026-06-10T14:29:07+00:00
+3221,Transportes Aeros Militares,Transportation services,true,VM,2026-06-10T14:29:07+00:00,2026-06-10T14:29:07+00:00
+3222,Command Airways,Miscellaneous shops,true,VM,2026-06-10T14:29:07+00:00,2026-06-10T14:29:07+00:00
+3223,Comair,Miscellaneous shops,true,VM,2026-06-10T14:29:07+00:00,2026-06-10T14:29:07+00:00
+3226,Skyways,Miscellaneous shops,true,VM,2026-06-10T14:29:07+00:00,2026-06-10T14:29:07+00:00
+3228,Cayman Airways,Miscellaneous shops,true,VM,2026-06-10T14:29:07+00:00,2026-06-10T14:29:07+00:00
+3229,SAETA (Sociedad Ecuatorianos De Transportes Aereos),Transportation services,true,VM,2026-06-10T14:29:07+00:00,2026-06-10T14:29:07+00:00
+3231,SAHSA (Servicio Aero De Honduras),Miscellaneous shops,true,VM,2026-06-10T14:29:07+00:00,2026-06-10T14:29:07+00:00
+3233,Capitol Air,Miscellaneous shops,true,V,2026-06-10T14:29:07+00:00,2026-06-10T14:29:07+00:00
+3234,Caribbean Airlines,Transportation services,true,VM,2026-06-10T14:29:07+00:00,2026-06-10T14:29:07+00:00
+3235,Brockway Air,Miscellaneous shops,true,V,2026-06-10T14:29:07+00:00,2026-06-10T14:29:07+00:00
+3236,Air Arabia Airline,Miscellaneous shops,true,VM,2026-06-10T14:29:07+00:00,2026-06-10T14:29:07+00:00
+3238,Bemidji Aviation,Miscellaneous shops,true,V,2026-06-10T14:29:07+00:00,2026-06-10T14:29:07+00:00
+3239,Bar Harbor Airlines,Transportation services,true,VM,2026-06-10T14:29:07+00:00,2026-06-10T14:29:07+00:00
+3240,Bahamasair,Miscellaneous shops,true,VM,2026-06-10T14:29:07+00:00,2026-06-10T14:29:07+00:00
+3241,Aviateca,Miscellaneous shops,true,VM,2026-06-10T14:29:07+00:00,2026-06-10T14:29:07+00:00
+3242,Avensa,Miscellaneous shops,true,VM,2026-06-10T14:29:07+00:00,2026-06-10T14:29:07+00:00
+3243,Austrian Air Service,Miscellaneous shops,true,VM,2026-06-10T14:29:07+00:00,2026-06-10T14:29:07+00:00
+3245,Easyjet Air,Miscellaneous shops,true,VM,2026-06-10T14:29:07+00:00,2026-06-10T14:29:07+00:00
+3246,Ryanair,Miscellaneous shops,true,VM,2026-06-10T14:29:07+00:00,2026-06-10T14:29:07+00:00
+3247,Gol Airlines,Transportation services,true,VM,2026-06-10T14:29:07+00:00,2026-06-10T14:29:07+00:00
+3248,Tam Airlines,Transportation services,true,VM,2026-06-10T14:29:07+00:00,2026-06-10T14:29:07+00:00
+3251,Aloha Airlines,Transportation services,true,V,2026-06-10T14:29:07+00:00,2026-06-10T14:29:07+00:00
+3252,Antilean Airlines (ALM),Transportation services,true,VM,2026-06-10T14:29:07+00:00,2026-06-10T14:29:07+00:00
+3253,America West,Miscellaneous shops,true,M,2026-06-10T14:29:07+00:00,2026-06-10T14:29:07+00:00
+3254,U.S. Air Shuttle,Miscellaneous shops,true,V,2026-06-10T14:29:07+00:00,2026-06-10T14:29:07+00:00
+3256,Alaska Airlines Inc.,Transportation services,true,VM,2026-06-10T14:29:07+00:00,2026-06-10T14:29:07+00:00
+3259,American Trans Air,Miscellaneous shops,true,V,2026-06-10T14:29:07+00:00,2026-06-10T14:29:07+00:00
+3260,Spirit Airlines,Transportation services,true,VM,2026-06-10T14:29:07+00:00,2026-06-10T14:29:07+00:00
+3261,Air China,Miscellaneous shops,true,VM,2026-06-10T14:29:07+00:00,2026-06-10T14:29:07+00:00
+3262,Reno Air,Miscellaneous shops,true,V,2026-06-10T14:29:07+00:00,2026-06-10T14:29:07+00:00
+3263,Aero Servicio Carabobo,Miscellaneous shops,true,VM,2026-06-10T14:29:07+00:00,2026-06-10T14:29:07+00:00
+3266,Air Seychelles,Miscellaneous shops,true,VM,2026-06-10T14:29:07+00:00,2026-06-10T14:29:07+00:00
+3267,Air Panama International,Miscellaneous shops,true,VM,2026-06-10T14:29:07+00:00,2026-06-10T14:29:07+00:00
+3273,Rica Hotels,Transportation services,true,TSYS,2026-06-10T14:29:07+00:00,2026-06-10T14:29:07+00:00
+3274,Inter Nor Hotels,Transportation services,true,TSYS,2026-06-10T14:29:07+00:00,2026-06-10T14:29:07+00:00
+3280,Air Jamaica,Miscellaneous shops,true,VM,2026-06-10T14:29:07+00:00,2026-06-10T14:29:07+00:00
+3281,Air Djibouti,Miscellaneous shops,true,TSYS,2026-06-10T14:29:07+00:00,2026-06-10T14:29:07+00:00
+3282,Air Djibouti,Miscellaneous shops,true,VM,2026-06-10T14:29:07+00:00,2026-06-10T14:29:07+00:00
+3284,Aero Virgin Islands,Miscellaneous shops,true,V,2026-06-10T14:29:07+00:00,2026-06-10T14:29:07+00:00
+3285,Aero Peru,Miscellaneous shops,true,VM,2026-06-10T14:29:07+00:00,2026-06-10T14:29:07+00:00
+3286,Aero Nicaraguensis,Miscellaneous shops,true,VM,2026-06-10T14:29:07+00:00,2026-06-10T14:29:07+00:00
+3287,Aero Coach Aviation,Miscellaneous shops,true,VM,2026-06-10T14:29:07+00:00,2026-06-10T14:29:07+00:00
+3292,Cyprus Airways,Miscellaneous shops,true,VM,2026-06-10T14:29:07+00:00,2026-06-10T14:29:07+00:00
+3293,Ecuatoriana,Miscellaneous shops,true,VM,2026-06-10T14:29:07+00:00,2026-06-10T14:29:07+00:00
+3294,Ethiopian Airlines,Transportation services,true,VM,2026-06-10T14:29:07+00:00,2026-06-10T14:29:07+00:00
+3295,Kenya Airways,Miscellaneous shops,true,VM,2026-06-10T14:29:07+00:00,2026-06-10T14:29:07+00:00
+3296,Air Berlin,Miscellaneous shops,true,VM,2026-06-10T14:29:07+00:00,2026-06-10T14:29:07+00:00
+3297,Tarom Romanian Air Transport,Transportation services,true,VM,2026-06-10T14:29:07+00:00,2026-06-10T14:29:07+00:00
+3298,Air Mauritius,Miscellaneous shops,true,VM,2026-06-10T14:29:07+00:00,2026-06-10T14:29:07+00:00
+3299,Wideroes Flyveselskap,Miscellaneous shops,true,VM,2026-06-10T14:29:07+00:00,2026-06-10T14:29:07+00:00
+3351,Affiliated Auto Rental,Miscellaneous shops,true,VM,2026-06-10T14:29:07+00:00,2026-06-10T14:29:07+00:00
+3352,American International,Miscellaneous shops,true,VM,2026-06-10T14:29:07+00:00,2026-06-10T14:29:07+00:00
+3353,Brooks Rent-A-Car,Miscellaneous shops,true,VM,2026-06-10T14:29:07+00:00,2026-06-10T14:29:07+00:00
+3354,Action Auto Rental,Miscellaneous shops,true,VM,2026-06-10T14:29:07+00:00,2026-06-10T14:29:07+00:00
+3355,Sixt Car Rental,Miscellaneous shops,true,VM,2026-06-10T14:29:07+00:00,2026-06-10T14:29:07+00:00
+3357,Hertz,Miscellaneous shops,true,VM,2026-06-10T14:29:07+00:00,2026-06-10T14:29:07+00:00
+3359,Payless Car Rental,Miscellaneous shops,true,VM,2026-06-10T14:29:07+00:00,2026-06-10T14:29:07+00:00
+3360,Snappy Car Rental,Miscellaneous shops,true,VM,2026-06-10T14:29:07+00:00,2026-06-10T14:29:07+00:00
+3361,Airways,Miscellaneous shops,true,VM,2026-06-10T14:29:07+00:00,2026-06-10T14:29:07+00:00
+3362,Altra Auto Rental,Miscellaneous shops,true,VM,2026-06-10T14:29:07+00:00,2026-06-10T14:29:07+00:00
+3364,Agency Rent-A-Car,Miscellaneous shops,true,VM,2026-06-10T14:29:07+00:00,2026-06-10T14:29:07+00:00
+3366,Budget Rent-A-Car,Miscellaneous shops,true,VM,2026-06-10T14:29:07+00:00,2026-06-10T14:29:07+00:00
+3368,Holiday Rent-A-Car,Miscellaneous shops,true,VM,2026-06-10T14:29:07+00:00,2026-06-10T14:29:07+00:00
+3370,Rent-A-Wreck,Miscellaneous shops,true,VM,2026-06-10T14:29:07+00:00,2026-06-10T14:29:07+00:00
+3374,Accent Rent-A-Car,Miscellaneous shops,true,VM,2026-06-10T14:29:07+00:00,2026-06-10T14:29:07+00:00
+3376,Ajax Rent-A-Car,Miscellaneous shops,true,VM,2026-06-10T14:29:07+00:00,2026-06-10T14:29:07+00:00
+3380,Triangle Rent-A-Car,Miscellaneous shops,true,VM,2026-06-10T14:29:07+00:00,2026-06-10T14:29:07+00:00
+3381,Europcar,Miscellaneous shops,true,VM,2026-06-10T14:29:07+00:00,2026-06-10T14:29:07+00:00
+3385,Tropical Rent-A-Car,Miscellaneous shops,true,VM,2026-06-10T14:29:07+00:00,2026-06-10T14:29:07+00:00
+3386,Showcase Rental Cars,Miscellaneous shops,true,VM,2026-06-10T14:29:07+00:00,2026-06-10T14:29:07+00:00
+3387,Alamo Rent-A-Car,Miscellaneous shops,true,VM,2026-06-10T14:29:07+00:00,2026-06-10T14:29:07+00:00
+3388,Merchants Rent-A-Car,Miscellaneous shops,true,VM,2026-06-10T14:29:07+00:00,2026-06-10T14:29:07+00:00
+3389,Avis Rent-A-Car,Miscellaneous shops,true,VM,2026-06-10T14:29:07+00:00,2026-06-10T14:29:07+00:00
+3390,Dollar Rent-A-Car,Miscellaneous shops,true,VM,2026-06-10T14:29:07+00:00,2026-06-10T14:29:07+00:00
+3391,Europe By Car,Miscellaneous shops,true,VM,2026-06-10T14:29:07+00:00,2026-06-10T14:29:07+00:00
+3393,National Car Rental,Miscellaneous shops,true,VM,2026-06-10T14:29:07+00:00,2026-06-10T14:29:07+00:00
+3394,Kemwell Group,Miscellaneous shops,true,VM,2026-06-10T14:29:07+00:00,2026-06-10T14:29:07+00:00
+3395,Thrifty Car Rental,Miscellaneous shops,true,VM,2026-06-10T14:29:07+00:00,2026-06-10T14:29:07+00:00
+3396,Tilden Rent-A-Car,Miscellaneous shops,true,VM,2026-06-10T14:29:07+00:00,2026-06-10T14:29:07+00:00
+3398,Econo-Car Rent-A-Car,Miscellaneous shops,true,VM,2026-06-10T14:29:07+00:00,2026-06-10T14:29:07+00:00
+3400,Auto Host Rental Cars,Miscellaneous shops,true,VM,2026-06-10T14:29:07+00:00,2026-06-10T14:29:07+00:00
+3405,Enterprise Rent-A-Car,Miscellaneous shops,true,VM,2026-06-10T14:29:07+00:00,2026-06-10T14:29:07+00:00
+3409,General Rent-A-Car,Miscellaneous shops,true,VM,2026-06-10T14:29:07+00:00,2026-06-10T14:29:07+00:00
+3412,A1 Rent-A-Car,Miscellaneous shops,true,VM,2026-06-10T14:29:07+00:00,2026-06-10T14:29:07+00:00
+3414,Godfrey National,Miscellaneous shops,true,V,2026-06-10T14:29:07+00:00,2026-06-10T14:29:07+00:00
+3420,Ansa International,Miscellaneous shops,true,VM,2026-06-10T14:29:07+00:00,2026-06-10T14:29:07+00:00
+3421,Allstate,Miscellaneous shops,true,VM,2026-06-10T14:29:07+00:00,2026-06-10T14:29:07+00:00
+3423,AVCAR,Miscellaneous shops,true,VM,2026-06-10T14:29:07+00:00,2026-06-10T14:29:07+00:00
+3425,Automate,Miscellaneous shops,true,VM,2026-06-10T14:29:07+00:00,2026-06-10T14:29:07+00:00
+3427,Avon Rent-A-Car,Miscellaneous shops,true,VM,2026-06-10T14:29:07+00:00,2026-06-10T14:29:07+00:00
+3428,Carey,Miscellaneous shops,true,VM,2026-06-10T14:29:07+00:00,2026-06-10T14:29:07+00:00
+3429,Insurance Rent-A-Car,Miscellaneous shops,true,VM,2026-06-10T14:29:07+00:00,2026-06-10T14:29:07+00:00
+3430,Major Rent-A-Car,Miscellaneous shops,true,VM,2026-06-10T14:29:07+00:00,2026-06-10T14:29:07+00:00
+3431,Replacement Rent-A-Car,Miscellaneous shops,true,VM,2026-06-10T14:29:07+00:00,2026-06-10T14:29:07+00:00
+3432,Reserve Rent-A-Car,Miscellaneous shops,true,VM,2026-06-10T14:29:07+00:00,2026-06-10T14:29:07+00:00
+3433,Ugly Duckling Rent-A-Car,Miscellaneous shops,true,VM,2026-06-10T14:29:07+00:00,2026-06-10T14:29:07+00:00
+3434,USA,Miscellaneous shops,true,VM,2026-06-10T14:29:07+00:00,2026-06-10T14:29:07+00:00
+3435,Value Rent-A-Car,Miscellaneous shops,true,VM,2026-06-10T14:29:07+00:00,2026-06-10T14:29:07+00:00
+3436,Autohansa,Miscellaneous shops,true,VM,2026-06-10T14:29:07+00:00,2026-06-10T14:29:07+00:00
+3437,Cite,Miscellaneous shops,true,V,2026-06-10T14:29:07+00:00,2026-06-10T14:29:07+00:00
+3438,Interent,Miscellaneous shops,true,VM,2026-06-10T14:29:07+00:00,2026-06-10T14:29:07+00:00
+3439,Milleville,Miscellaneous shops,true,VM,2026-06-10T14:29:07+00:00,2026-06-10T14:29:07+00:00
+3441,Advantage Rent A Car,Miscellaneous shops,true,VM,2026-06-10T14:29:07+00:00,2026-06-10T14:29:07+00:00
+3501,Holiday Inns,Miscellaneous shops,true,VM,2026-06-10T14:29:07+00:00,2026-06-10T14:29:07+00:00
+3502,Best Western,Miscellaneous shops,true,VM,2026-06-10T14:29:07+00:00,2026-06-10T14:29:07+00:00
+3503,Sheraton,Miscellaneous shops,true,VM,2026-06-10T14:29:07+00:00,2026-06-10T14:29:07+00:00
+3504,Hilton,Miscellaneous shops,true,VM,2026-06-10T14:29:07+00:00,2026-06-10T14:29:07+00:00
+3505,Trusthouse Forte,Miscellaneous shops,true,VM,2026-06-10T14:29:07+00:00,2026-06-10T14:29:07+00:00
+3506,Golden Tulip,Miscellaneous shops,true,VM,2026-06-10T14:29:07+00:00,2026-06-10T14:29:07+00:00
+3507,Friendship Inns International,Miscellaneous shops,true,VM,2026-06-10T14:29:07+00:00,2026-06-10T14:29:07+00:00
+3508,Quality International,Miscellaneous shops,true,VM,2026-06-10T14:29:07+00:00,2026-06-10T14:29:07+00:00
+3509,Marriott,Miscellaneous shops,true,VM,2026-06-10T14:29:07+00:00,2026-06-10T14:29:07+00:00
+3510,Days Inns Of America,Miscellaneous shops,true,VM,2026-06-10T14:29:07+00:00,2026-06-10T14:29:07+00:00
+3511,Arabella Hotels,Transportation services,true,VM,2026-06-10T14:29:07+00:00,2026-06-10T14:29:07+00:00
+3512,Intercontinental,Miscellaneous shops,true,VM,2026-06-10T14:29:07+00:00,2026-06-10T14:29:07+00:00
+3513,Westin Hotels,Transportation services,true,VM,2026-06-10T14:29:07+00:00,2026-06-10T14:29:07+00:00
+3514,Amerisuites,Miscellaneous shops,true,VM,2026-06-10T14:29:07+00:00,2026-06-10T14:29:07+00:00
+3515,Rodeway Inns International,Miscellaneous shops,true,VM,2026-06-10T14:29:07+00:00,2026-06-10T14:29:07+00:00
+3516,La Quinta Motor Inns,Miscellaneous shops,true,VM,2026-06-10T14:29:07+00:00,2026-06-10T14:29:07+00:00
+3517,Americana Hotels Corporation,Transportation services,true,VM,2026-06-10T14:29:07+00:00,2026-06-10T14:29:07+00:00
+3518,Sol Hotels,Transportation services,true,VM,2026-06-10T14:29:07+00:00,2026-06-10T14:29:07+00:00
+3519,PLM/ETAP International,Miscellaneous shops,true,VM,2026-06-10T14:29:07+00:00,2026-06-10T14:29:07+00:00
+3520,Meridien,Miscellaneous shops,true,VM,2026-06-10T14:29:07+00:00,2026-06-10T14:29:07+00:00
+3521,Crest Hotels,Transportation services,true,VM,2026-06-10T14:29:07+00:00,2026-06-10T14:29:07+00:00
+3522,Tokyo Group,Miscellaneous shops,true,VM,2026-06-10T14:29:07+00:00,2026-06-10T14:29:07+00:00
+3523,Peninsula Hotels,Transportation services,true,VM,2026-06-10T14:29:07+00:00,2026-06-10T14:29:07+00:00
+3524,Welcomgroup,Miscellaneous shops,true,VM,2026-06-10T14:29:07+00:00,2026-06-10T14:29:07+00:00
+3525,Dunfey Hotels,Transportation services,true,VM,2026-06-10T14:29:07+00:00,2026-06-10T14:29:07+00:00
+3526,Prince Hotels,Transportation services,true,VM,2026-06-10T14:29:07+00:00,2026-06-10T14:29:07+00:00
+3527,Downtowner Passport,Miscellaneous shops,true,VM,2026-06-10T14:29:07+00:00,2026-06-10T14:29:07+00:00
+3528,Thunderbird/Red Lion,Miscellaneous shops,true,VM,2026-06-10T14:29:07+00:00,2026-06-10T14:29:07+00:00
+3529,CP (Canadian Pacific),Miscellaneous shops,true,VM,2026-06-10T14:29:07+00:00,2026-06-10T14:29:07+00:00
+3530,Renaissance Hotels,Transportation services,true,VM,2026-06-10T14:29:07+00:00,2026-06-10T14:29:07+00:00
+3531,Kauai Coconut Beach Resort,Miscellaneous shops,true,VM,2026-06-10T14:29:07+00:00,2026-06-10T14:29:07+00:00
+3532,Royal Kona Resort,Miscellaneous shops,true,VM,2026-06-10T14:29:07+00:00,2026-06-10T14:29:07+00:00
+3533,Park Inn by Radisson,Miscellaneous shops,true,VM,2026-06-10T14:29:07+00:00,2026-06-10T14:29:07+00:00
+3534,Southern Pacific Hotel,Transportation services,true,VM,2026-06-10T14:29:07+00:00,2026-06-10T14:29:07+00:00
+3535,Hilton International,Miscellaneous shops,true,VM,2026-06-10T14:29:07+00:00,2026-06-10T14:29:07+00:00
+3536,AMFAC Hotels,Transportation services,true,VM,2026-06-10T14:29:07+00:00,2026-06-10T14:29:07+00:00
+3537,Ana Hotels,Transportation services,true,VM,2026-06-10T14:29:07+00:00,2026-06-10T14:29:07+00:00
+3538,Concorde Hotels,Transportation services,true,VM,2026-06-10T14:29:07+00:00,2026-06-10T14:29:07+00:00
+3539,Summerfield Suites Hotel,Transportation services,true,VM,2026-06-10T14:29:07+00:00,2026-06-10T14:29:07+00:00
+3540,Iberotel,Miscellaneous shops,true,VM,2026-06-10T14:29:07+00:00,2026-06-10T14:29:07+00:00
+3541,Hotel Okura,Transportation services,true,VM,2026-06-10T14:29:07+00:00,2026-06-10T14:29:07+00:00
+3542,Royal Hotels,Transportation services,true,VM,2026-06-10T14:29:07+00:00,2026-06-10T14:29:07+00:00
+3543,Four Seasons,Miscellaneous shops,true,VM,2026-06-10T14:29:07+00:00,2026-06-10T14:29:07+00:00
+3544,Cigahotels,Transportation services,true,VM,2026-06-10T14:29:07+00:00,2026-06-10T14:29:07+00:00
+3545,Shangri-La International,Miscellaneous shops,true,VM,2026-06-10T14:29:07+00:00,2026-06-10T14:29:07+00:00
+3546,Hotel Sierra,Transportation services,true,VM,2026-06-10T14:29:07+00:00,2026-06-10T14:29:07+00:00
+3547,Breakers Resort,Miscellaneous shops,true,M,2026-06-10T14:29:07+00:00,2026-06-10T14:29:07+00:00
+3548,Hotels Melia,Transportation services,true,VM,2026-06-10T14:29:07+00:00,2026-06-10T14:29:07+00:00
+3549,Auberge Des Governeurs,Miscellaneous shops,true,VM,2026-06-10T14:29:07+00:00,2026-06-10T14:29:07+00:00
+3550,Regal 8 Inns,Miscellaneous shops,true,VM,2026-06-10T14:29:07+00:00,2026-06-10T14:29:07+00:00
+3551,Mirage Hotel and Casino,Transportation services,true,VM,2026-06-10T14:29:07+00:00,2026-06-10T14:29:07+00:00
+3552,Coast Hotels,Transportation services,true,VM,2026-06-10T14:29:07+00:00,2026-06-10T14:29:07+00:00
+3553,Parks Inns International,Miscellaneous shops,true,VM,2026-06-10T14:29:07+00:00,2026-06-10T14:29:07+00:00
+3554,Pinehurst Resort,Miscellaneous shops,true,VM,2026-06-10T14:29:07+00:00,2026-06-10T14:29:07+00:00
+3555,Treasure Island Hotel and Casino,Transportation services,true,VM,2026-06-10T14:29:07+00:00,2026-06-10T14:29:07+00:00
+3556,Barton Creek Resort,Miscellaneous shops,true,VM,2026-06-10T14:29:07+00:00,2026-06-10T14:29:07+00:00
+3557,Manhattan East Suite Hotels,Transportation services,true,VM,2026-06-10T14:29:07+00:00,2026-06-10T14:29:07+00:00
+3558,Jolly Hotels,Transportation services,true,VM,2026-06-10T14:29:07+00:00,2026-06-10T14:29:07+00:00
+3559,Candlewood Suites,Miscellaneous shops,true,VM,2026-06-10T14:29:07+00:00,2026-06-10T14:29:07+00:00
+3560,Aladdin Resort and Casino,Miscellaneous shops,true,VM,2026-06-10T14:29:07+00:00,2026-06-10T14:29:07+00:00
+3561,Golden Nugget,Miscellaneous shops,true,VM,2026-06-10T14:29:07+00:00,2026-06-10T14:29:07+00:00
+3562,Comfort Hotel International,Transportation services,true,VM,2026-06-10T14:29:07+00:00,2026-06-10T14:29:07+00:00
+3563,Journeys End Motels,Miscellaneous shops,true,VM,2026-06-10T14:29:07+00:00,2026-06-10T14:29:07+00:00
+3564,Sams Town Hotel and Casino,Transportation services,true,VM,2026-06-10T14:29:07+00:00,2026-06-10T14:29:07+00:00
+3565,Relax Inns,Miscellaneous shops,true,VM,2026-06-10T14:29:07+00:00,2026-06-10T14:29:07+00:00
+3566,Garden Place Hotel,Transportation services,true,VM,2026-06-10T14:29:07+00:00,2026-06-10T14:29:07+00:00
+3567,Soho Grand Hotel,Transportation services,true,VM,2026-06-10T14:29:07+00:00,2026-06-10T14:29:07+00:00
+3568,Ladbroke Hotels,Transportation services,true,VM,2026-06-10T14:29:07+00:00,2026-06-10T14:29:07+00:00
+3569,Tribeca Grand Hotel,Transportation services,true,VM,2026-06-10T14:29:07+00:00,2026-06-10T14:29:07+00:00
+3570,Grand Met Forum Hotels,Transportation services,true,VM,2026-06-10T14:29:07+00:00,2026-06-10T14:29:07+00:00
+3571,Grand Wailea Resort,Miscellaneous shops,true,VM,2026-06-10T14:29:07+00:00,2026-06-10T14:29:07+00:00
+3572,Miyako Hotel/Kintetsu,Transportation services,true,VM,2026-06-10T14:29:07+00:00,2026-06-10T14:29:07+00:00
+3573,Sandman Hotels,Transportation services,true,VM,2026-06-10T14:29:07+00:00,2026-06-10T14:29:07+00:00
+3574,Venture Inn,Miscellaneous shops,true,VM,2026-06-10T14:29:07+00:00,2026-06-10T14:29:07+00:00
+3575,Vagabond Hotels,Transportation services,true,VM,2026-06-10T14:29:07+00:00,2026-06-10T14:29:07+00:00
+3576,La Quinta Resort,Miscellaneous shops,true,VM,2026-06-10T14:29:07+00:00,2026-06-10T14:29:07+00:00
+3577,Mandarin International,Miscellaneous shops,true,VM,2026-06-10T14:29:07+00:00,2026-06-10T14:29:07+00:00
+3578,Frankenmuth Bavarian,Miscellaneous shops,true,VM,2026-06-10T14:29:07+00:00,2026-06-10T14:29:07+00:00
+3579,Hotel Mercure,Transportation services,true,VM,2026-06-10T14:29:07+00:00,2026-06-10T14:29:07+00:00
+3580,Hotel Del Coronado,Transportation services,true,VM,2026-06-10T14:29:07+00:00,2026-06-10T14:29:07+00:00
+3581,Delta Hotels,Transportation services,true,VM,2026-06-10T14:29:07+00:00,2026-06-10T14:29:07+00:00
+3582,California Hotel and Casino,Transportation services,true,VM,2026-06-10T14:29:07+00:00,2026-06-10T14:29:07+00:00
+3583,Radisson BLU,Miscellaneous shops,true,VM,2026-06-10T14:29:07+00:00,2026-06-10T14:29:07+00:00
+3584,Princess Hotels International,Transportation services,true,VM,2026-06-10T14:29:07+00:00,2026-06-10T14:29:07+00:00
+3585,Hungar Hotels,Transportation services,true,VM,2026-06-10T14:29:07+00:00,2026-06-10T14:29:07+00:00
+3586,Sokos Hotel,Transportation services,true,VM,2026-06-10T14:29:07+00:00,2026-06-10T14:29:07+00:00
+3587,Doral Hotels,Transportation services,true,VM,2026-06-10T14:29:07+00:00,2026-06-10T14:29:07+00:00
+3588,Helmsley Hotels,Transportation services,true,VM,2026-06-10T14:29:07+00:00,2026-06-10T14:29:07+00:00
+3589,Doral Golf Resort,Miscellaneous shops,true,VM,2026-06-10T14:29:07+00:00,2026-06-10T14:29:07+00:00
+3590,Fairmont Hotels Corporation,Transportation services,true,VM,2026-06-10T14:29:07+00:00,2026-06-10T14:29:07+00:00
+3591,Sonesta International Hotels,Transportation services,true,VM,2026-06-10T14:29:07+00:00,2026-06-10T14:29:07+00:00
+3592,Omni International,Miscellaneous shops,true,VM,2026-06-10T14:29:07+00:00,2026-06-10T14:29:07+00:00
+3593,Cunard Hotels,Transportation services,true,VM,2026-06-10T14:29:07+00:00,2026-06-10T14:29:07+00:00
+3594,Arizona Biltmore,Miscellaneous shops,true,VM,2026-06-10T14:29:07+00:00,2026-06-10T14:29:07+00:00
+3595,Hospitality Inns,Professional services and membership organizations,true,VM,2026-06-10T14:29:07+00:00,2026-06-10T14:29:07+00:00
+3596,Wynn Las Vegas,Miscellaneous shops,true,VM,2026-06-10T14:29:07+00:00,2026-06-10T14:29:07+00:00
+3597,Riverside Resort and Casino,Miscellaneous shops,true,VM,2026-06-10T14:29:07+00:00,2026-06-10T14:29:07+00:00
+3598,Regent Hotels,Transportation services,true,VM,2026-06-10T14:29:07+00:00,2026-06-10T14:29:07+00:00
+3599,Pannonia Hotels,Transportation services,true,VM,2026-06-10T14:29:07+00:00,2026-06-10T14:29:07+00:00
+3600,Saddlebrook Resort–Tampa,Miscellaneous shops,true,VM,2026-06-10T14:29:07+00:00,2026-06-10T14:29:07+00:00
+3601,Tradewinds Resort,Miscellaneous shops,true,VM,2026-06-10T14:29:07+00:00,2026-06-10T14:29:07+00:00
+3602,Hudson Hotel,Transportation services,true,VM,2026-06-10T14:29:07+00:00,2026-06-10T14:29:07+00:00
+3603,Noahs Hotel (Melbourne),Transportation services,true,VM,2026-06-10T14:29:07+00:00,2026-06-10T14:29:07+00:00
+3604,Hilton Garden Inn,Miscellaneous shops,true,VM,2026-06-10T14:29:07+00:00,2026-06-10T14:29:07+00:00
+3605,Jurys Doyle Hotel Group,Transportation services,true,M,2026-06-10T14:29:07+00:00,2026-06-10T14:29:07+00:00
+3606,Jefferson Hotel,Transportation services,true,M,2026-06-10T14:29:07+00:00,2026-06-10T14:29:07+00:00
+3607,Fontainebleau Resort,Miscellaneous shops,true,VM,2026-06-10T14:29:07+00:00,2026-06-10T14:29:07+00:00
+3608,Gaylord Opryland,Miscellaneous shops,true,VM,2026-06-10T14:29:07+00:00,2026-06-10T14:29:07+00:00
+3609,Gaylord Palms,Miscellaneous shops,true,VM,2026-06-10T14:29:07+00:00,2026-06-10T14:29:07+00:00
+3610,Gaylord Texan,Miscellaneous shops,true,M,2026-06-10T14:29:07+00:00,2026-06-10T14:29:07+00:00
+3611,C MON INN,Miscellaneous shops,true,M,2026-06-10T14:29:07+00:00,2026-06-10T14:29:07+00:00
+3612,Moevenpick,Miscellaneous shops,true,VM,2026-06-10T14:29:07+00:00,2026-06-10T14:29:07+00:00
+3613,Microtel Inn and Suites,Miscellaneous shops,true,VM,2026-06-10T14:29:07+00:00,2026-06-10T14:29:07+00:00
+3614,AmericInn,Miscellaneous shops,true,VM,2026-06-10T14:29:07+00:00,2026-06-10T14:29:07+00:00
+3615,Travelodge Motels,Transportation services,true,VM,2026-06-10T14:29:07+00:00,2026-06-10T14:29:07+00:00
+3616,Hermitage Hotels,Transportation services,true,M,2026-06-10T14:29:07+00:00,2026-06-10T14:29:07+00:00
+3617,America’s Best Value Inn,Miscellaneous shops,true,VM,2026-06-10T14:29:07+00:00,2026-06-10T14:29:07+00:00
+3618,Great Wolf,Miscellaneous shops,true,VM,2026-06-10T14:29:07+00:00,2026-06-10T14:29:07+00:00
+3619,Aloft,Miscellaneous shops,true,VM,2026-06-10T14:29:07+00:00,2026-06-10T14:29:07+00:00
+3620,Binions Horseshoe Club,Retail outlet services,true,VM,2026-06-10T14:29:07+00:00,2026-06-10T14:29:07+00:00
+3621,Extended Stay,Miscellaneous shops,true,VM,2026-06-10T14:29:07+00:00,2026-06-10T14:29:07+00:00
+3622,Merlin Hotel (Perth),Transportation services,true,VM,2026-06-10T14:29:07+00:00,2026-06-10T14:29:07+00:00
+3623,Dorint Hotels,Transportation services,true,VM,2026-06-10T14:29:07+00:00,2026-06-10T14:29:07+00:00
+3624,Lady Luck Hotel and Casino,Transportation services,true,VM,2026-06-10T14:29:07+00:00,2026-06-10T14:29:07+00:00
+3625,Hotel Universal,Transportation services,true,VM,2026-06-10T14:29:07+00:00,2026-06-10T14:29:07+00:00
+3626,Studio Plus,Miscellaneous shops,true,VM,2026-06-10T14:29:07+00:00,2026-06-10T14:29:07+00:00
+3627,Extended Stay America,Miscellaneous shops,true,VM,2026-06-10T14:29:07+00:00,2026-06-10T14:29:07+00:00
+3628,Excalibur Hotel and Casino,Transportation services,true,VM,2026-06-10T14:29:07+00:00,2026-06-10T14:29:07+00:00
+3629,Dan Hotels,Transportation services,true,VM,2026-06-10T14:29:07+00:00,2026-06-10T14:29:07+00:00
+3630,Extended Stay Deluxe,Miscellaneous shops,true,VM,2026-06-10T14:29:07+00:00,2026-06-10T14:29:07+00:00
+3631,Sleep Inn,Miscellaneous shops,true,VM,2026-06-10T14:29:07+00:00,2026-06-10T14:29:07+00:00
+3632,The Phoenician,Miscellaneous shops,true,VM,2026-06-10T14:29:07+00:00,2026-06-10T14:29:07+00:00
+3633,Rank Hotels,Transportation services,true,VM,2026-06-10T14:29:07+00:00,2026-06-10T14:29:07+00:00
+3634,Swissotel,Miscellaneous shops,true,VM,2026-06-10T14:29:07+00:00,2026-06-10T14:29:07+00:00
+3635,Reso Hotels,Transportation services,true,VM,2026-06-10T14:29:07+00:00,2026-06-10T14:29:07+00:00
+3636,Sarova Hotels,Transportation services,true,VM,2026-06-10T14:29:07+00:00,2026-06-10T14:29:07+00:00
+3637,Ramada Inns,Miscellaneous shops,true,VM,2026-06-10T14:29:07+00:00,2026-06-10T14:29:07+00:00
+3638,Howard Johnson,Miscellaneous shops,true,VM,2026-06-10T14:29:07+00:00,2026-06-10T14:29:07+00:00
+3639,Mount Charlotte Hotels,Transportation services,true,VM,2026-06-10T14:29:07+00:00,2026-06-10T14:29:07+00:00
+3640,Hyatt Hotels/International,Transportation services,true,VM,2026-06-10T14:29:07+00:00,2026-06-10T14:29:07+00:00
+3641,Sofitel Hotels,Transportation services,true,VM,2026-06-10T14:29:07+00:00,2026-06-10T14:29:07+00:00
+3642,Novotel Sieh (Accor),Miscellaneous shops,true,VM,2026-06-10T14:29:07+00:00,2026-06-10T14:29:07+00:00
+3643,Steigenberger,Miscellaneous shops,true,VM,2026-06-10T14:29:07+00:00,2026-06-10T14:29:07+00:00
+3644,Econo-Travel Motor Hotel,Transportation services,true,VM,2026-06-10T14:29:07+00:00,2026-06-10T14:29:07+00:00
+3645,Queens Moat Houses,Miscellaneous shops,true,VM,2026-06-10T14:29:07+00:00,2026-06-10T14:29:07+00:00
+3646,Swallow Hotels,Transportation services,true,VM,2026-06-10T14:29:07+00:00,2026-06-10T14:29:07+00:00
+3647,Grupo Hotels HUSA SA,Transportation services,true,VM,2026-06-10T14:29:07+00:00,2026-06-10T14:29:07+00:00
+3648,De Vere Hotels,Transportation services,true,VM,2026-06-10T14:29:07+00:00,2026-06-10T14:29:07+00:00
+3649,Radisson,Miscellaneous shops,true,VM,2026-06-10T14:29:07+00:00,2026-06-10T14:29:07+00:00
+3650,Red Roof Inns,Miscellaneous shops,true,VM,2026-06-10T14:29:07+00:00,2026-06-10T14:29:07+00:00
+3651,Imperial London Hotels,Transportation services,true,VM,2026-06-10T14:29:07+00:00,2026-06-10T14:29:07+00:00
+3652,Embassy Hotels,Transportation services,true,VM,2026-06-10T14:29:07+00:00,2026-06-10T14:29:07+00:00
+3653,Penta Hotels,Transportation services,true,VM,2026-06-10T14:29:07+00:00,2026-06-10T14:29:07+00:00
+3654,Loews Hotels,Transportation services,true,VM,2026-06-10T14:29:07+00:00,2026-06-10T14:29:07+00:00
+3655,Scandic Hotels,Transportation services,true,VM,2026-06-10T14:29:07+00:00,2026-06-10T14:29:07+00:00
+3656,Sara Hotels,Transportation services,true,VM,2026-06-10T14:29:07+00:00,2026-06-10T14:29:07+00:00
+3657,Oberoi Hotels,Transportation services,true,VM,2026-06-10T14:29:07+00:00,2026-06-10T14:29:07+00:00
+3658,New Otani Hotels,Transportation services,true,VM,2026-06-10T14:29:07+00:00,2026-06-10T14:29:07+00:00
+3659,Taj Hotels Intl,Transportation services,true,VM,2026-06-10T14:29:07+00:00,2026-06-10T14:29:07+00:00
+3660,Knights Inn,Miscellaneous shops,true,VM,2026-06-10T14:29:07+00:00,2026-06-10T14:29:07+00:00
+3661,Metropole Hotels,Transportation services,true,VM,2026-06-10T14:29:07+00:00,2026-06-10T14:29:07+00:00
+3662,Circus Circus Hotel and Casino,Transportation services,true,VM,2026-06-10T14:29:07+00:00,2026-06-10T14:29:07+00:00
+3663,Hoteles El Presidente,Transportation services,true,VM,2026-06-10T14:29:07+00:00,2026-06-10T14:29:07+00:00
+3664,Flag Inns,Miscellaneous shops,true,VM,2026-06-10T14:29:07+00:00,2026-06-10T14:29:07+00:00
+3665,Hampton Inns,Miscellaneous shops,true,VM,2026-06-10T14:29:07+00:00,2026-06-10T14:29:07+00:00
+3666,Stakis Hotels,Transportation services,true,VM,2026-06-10T14:29:07+00:00,2026-06-10T14:29:07+00:00
+3667,Luxor Hotel and Casino,Transportation services,true,VM,2026-06-10T14:29:07+00:00,2026-06-10T14:29:07+00:00
+3668,Maritim,Miscellaneous shops,true,VM,2026-06-10T14:29:07+00:00,2026-06-10T14:29:07+00:00
+3669,Eldorado Hotel and Casino,Transportation services,true,VM,2026-06-10T14:29:07+00:00,2026-06-10T14:29:07+00:00
+3670,Arcade,Miscellaneous shops,true,VM,2026-06-10T14:29:07+00:00,2026-06-10T14:29:07+00:00
+3671,Arctia,Miscellaneous shops,true,VM,2026-06-10T14:29:07+00:00,2026-06-10T14:29:07+00:00
+3672,Campanile,Miscellaneous shops,true,VM,2026-06-10T14:29:07+00:00,2026-06-10T14:29:07+00:00
+3673,Ibusz Hotels,Transportation services,true,VM,2026-06-10T14:29:07+00:00,2026-06-10T14:29:07+00:00
+3674,Rantasipi Hotels,Transportation services,true,VM,2026-06-10T14:29:07+00:00,2026-06-10T14:29:07+00:00
+3675,Interhotel Cedok,Transportation services,true,VM,2026-06-10T14:29:07+00:00,2026-06-10T14:29:07+00:00
+3676,Monte Carlo Hotel and Casino,Transportation services,true,VM,2026-06-10T14:29:07+00:00,2026-06-10T14:29:07+00:00
+3677,Climat De France,Miscellaneous shops,true,VM,2026-06-10T14:29:07+00:00,2026-06-10T14:29:07+00:00
+3678,Cumulus Hotels,Transportation services,true,VM,2026-06-10T14:29:07+00:00,2026-06-10T14:29:07+00:00
+3679,Silver Legacy Hotel and Casino,Transportation services,true,VM,2026-06-10T14:29:07+00:00,2026-06-10T14:29:07+00:00
+3680,Hoteis Othan,Miscellaneous shops,true,VM,2026-06-10T14:29:07+00:00,2026-06-10T14:29:07+00:00
+3681,Adams Mark,Miscellaneous shops,true,VM,2026-06-10T14:29:07+00:00,2026-06-10T14:29:07+00:00
+3682,Sahara Hotel and Casino,Transportation services,true,VM,2026-06-10T14:29:07+00:00,2026-06-10T14:29:07+00:00
+3683,Bradbury Suites,Miscellaneous shops,true,VM,2026-06-10T14:29:07+00:00,2026-06-10T14:29:07+00:00
+3684,Budget Host Inns,Miscellaneous shops,true,VM,2026-06-10T14:29:07+00:00,2026-06-10T14:29:07+00:00
+3685,Budgetel,Miscellaneous shops,true,VM,2026-06-10T14:29:07+00:00,2026-06-10T14:29:07+00:00
+3686,Suisse Chalet,Miscellaneous shops,true,VM,2026-06-10T14:29:07+00:00,2026-06-10T14:29:07+00:00
+3687,Clarion Hotel,Transportation services,true,VM,2026-06-10T14:29:07+00:00,2026-06-10T14:29:07+00:00
+3688,Compri Hotel,Transportation services,true,VM,2026-06-10T14:29:07+00:00,2026-06-10T14:29:07+00:00
+3689,Consort,Miscellaneous shops,true,VM,2026-06-10T14:29:07+00:00,2026-06-10T14:29:07+00:00
+3690,Courtyard by Marriott,Miscellaneous shops,true,VM,2026-06-10T14:29:07+00:00,2026-06-10T14:29:07+00:00
+3691,Dillon Inn,Miscellaneous shops,true,VM,2026-06-10T14:29:07+00:00,2026-06-10T14:29:07+00:00
+3692,Doubletree,Miscellaneous shops,true,VM,2026-06-10T14:29:07+00:00,2026-06-10T14:29:07+00:00
+3693,Drury Inn,Miscellaneous shops,true,VM,2026-06-10T14:29:07+00:00,2026-06-10T14:29:07+00:00
+3694,Economy Inns Of America,Miscellaneous shops,true,VM,2026-06-10T14:29:07+00:00,2026-06-10T14:29:07+00:00
+3695,Embassy Suites,Miscellaneous shops,true,VM,2026-06-10T14:29:07+00:00,2026-06-10T14:29:07+00:00
+3696,Excel Inn,Miscellaneous shops,true,VM,2026-06-10T14:29:07+00:00,2026-06-10T14:29:07+00:00
+3697,Fairfield Hotel,Transportation services,true,VM,2026-06-10T14:29:07+00:00,2026-06-10T14:29:07+00:00
+3698,Harley Hotel,Transportation services,true,VM,2026-06-10T14:29:07+00:00,2026-06-10T14:29:07+00:00
+3699,Midway Motor Lodge,Miscellaneous shops,true,VM,2026-06-10T14:29:07+00:00,2026-06-10T14:29:07+00:00
+3700,Motel 6,Miscellaneous shops,true,VM,2026-06-10T14:29:07+00:00,2026-06-10T14:29:07+00:00
+3701,La Mansion Del Rio,Miscellaneous shops,true,VM,2026-06-10T14:29:07+00:00,2026-06-10T14:29:07+00:00
+3702,Registry Hotels,Transportation services,true,VM,2026-06-10T14:29:07+00:00,2026-06-10T14:29:07+00:00
+3703,Residence Inn,Miscellaneous shops,true,VM,2026-06-10T14:29:07+00:00,2026-06-10T14:29:07+00:00
+3704,Royce Hotel,Transportation services,true,VM,2026-06-10T14:29:07+00:00,2026-06-10T14:29:07+00:00
+3705,Sandman Inn,Miscellaneous shops,true,VM,2026-06-10T14:29:07+00:00,2026-06-10T14:29:07+00:00
+3706,Shilo Inn,Miscellaneous shops,true,VM,2026-06-10T14:29:07+00:00,2026-06-10T14:29:07+00:00
+3707,Shoneys Inn,Miscellaneous shops,true,VM,2026-06-10T14:29:07+00:00,2026-06-10T14:29:07+00:00
+3708,Virgin River Hotel and Casino,Transportation services,true,VM,2026-06-10T14:29:07+00:00,2026-06-10T14:29:07+00:00
+3709,Super 8 Motel,Miscellaneous shops,true,VM,2026-06-10T14:29:07+00:00,2026-06-10T14:29:07+00:00
+3710,Ritz-Carlton,Miscellaneous shops,true,VM,2026-06-10T14:29:07+00:00,2026-06-10T14:29:07+00:00
+3711,Flag Inns (Australia),Miscellaneous shops,true,VM,2026-06-10T14:29:07+00:00,2026-06-10T14:29:07+00:00
+3712,Buffalo Bills Hotel and Casino,Transportation services,true,VM,2026-06-10T14:29:07+00:00,2026-06-10T14:29:07+00:00
+3713,Quality Pacific Hotel,Transportation services,true,VM,2026-06-10T14:29:07+00:00,2026-06-10T14:29:07+00:00
+3714,Four Seasons (Australia),Miscellaneous shops,true,VM,2026-06-10T14:29:07+00:00,2026-06-10T14:29:07+00:00
+3715,Fairfield Inn,Miscellaneous shops,true,VM,2026-06-10T14:29:07+00:00,2026-06-10T14:29:07+00:00
+3716,Carlton Hotels,Transportation services,true,VM,2026-06-10T14:29:07+00:00,2026-06-10T14:29:07+00:00
+3717,City Lodge Hotels,Transportation services,true,VM,2026-06-10T14:29:07+00:00,2026-06-10T14:29:07+00:00
+3718,Karos Hotels,Transportation services,true,VM,2026-06-10T14:29:07+00:00,2026-06-10T14:29:07+00:00
+3719,Protea Hotels,Transportation services,true,VM,2026-06-10T14:29:07+00:00,2026-06-10T14:29:07+00:00
+3720,Southern Sun Hotels,Transportation services,true,VM,2026-06-10T14:29:07+00:00,2026-06-10T14:29:07+00:00
+3721,Conrad Hotels,Transportation services,true,VM,2026-06-10T14:29:07+00:00,2026-06-10T14:29:07+00:00
+3722,Wyndham,Transportation services,true,VM,2026-06-10T14:29:07+00:00,2026-06-10T14:29:07+00:00
+3723,Rica Hotels,Transportation services,true,VM,2026-06-10T14:29:07+00:00,2026-06-10T14:29:07+00:00
+3724,Inter Nor Hotels,Transportation services,true,VM,2026-06-10T14:29:07+00:00,2026-06-10T14:29:07+00:00
+3725,Sea Pines Resort,Miscellaneous shops,true,VM,2026-06-10T14:29:07+00:00,2026-06-10T14:29:07+00:00
+3726,Rio Suites,Miscellaneous shops,true,VM,2026-06-10T14:29:07+00:00,2026-06-10T14:29:07+00:00
+3727,Broadmoor Hotel,Transportation services,true,VM,2026-06-10T14:29:07+00:00,2026-06-10T14:29:07+00:00
+3728,Ballys Hotel and Casino,Transportation services,true,VM,2026-06-10T14:29:07+00:00,2026-06-10T14:29:07+00:00
+3729,John Ascuagas Nugget,Miscellaneous shops,true,VM,2026-06-10T14:29:07+00:00,2026-06-10T14:29:07+00:00
+3730,MGM Grand Hotel,Transportation services,true,VM,2026-06-10T14:29:07+00:00,2026-06-10T14:29:07+00:00
+3731,Harrah’s Hotels and Casinos,Transportation services,true,VM,2026-06-10T14:29:07+00:00,2026-06-10T14:29:07+00:00
+3732,Opryland Hotel,Transportation services,true,VM,2026-06-10T14:29:07+00:00,2026-06-10T14:29:07+00:00
+3733,Boca Raton Resort,Miscellaneous shops,true,M,2026-06-10T14:29:07+00:00,2026-06-10T14:29:07+00:00
+3734,Harvey Bristol Hotels,Transportation services,true,VM,2026-06-10T14:29:07+00:00,2026-06-10T14:29:07+00:00
+3735,Masters Economy Inns,Miscellaneous shops,true,VM,2026-06-10T14:29:07+00:00,2026-06-10T14:29:07+00:00
+3736,Colorado Belle Edgewater Resort,Miscellaneous shops,true,VM,2026-06-10T14:29:07+00:00,2026-06-10T14:29:07+00:00
+3737,Riviera Hotel and Casino,Transportation services,true,VM,2026-06-10T14:29:07+00:00,2026-06-10T14:29:07+00:00
+3738,Tropicana Resort and Casino,Miscellaneous shops,true,VM,2026-06-10T14:29:07+00:00,2026-06-10T14:29:07+00:00
+3739,Woodside Hotels and Resorts,Transportation services,true,VM,2026-06-10T14:29:07+00:00,2026-06-10T14:29:07+00:00
+3740,Towneplace Suites,Miscellaneous shops,true,VM,2026-06-10T14:29:07+00:00,2026-06-10T14:29:07+00:00
+3741,Millennium Broadway Hotel,Transportation services,true,VM,2026-06-10T14:29:07+00:00,2026-06-10T14:29:07+00:00
+3742,Club Med,Miscellaneous shops,true,VM,2026-06-10T14:29:07+00:00,2026-06-10T14:29:07+00:00
+3743,Biltmore Hotel and Suites,Transportation services,true,VM,2026-06-10T14:29:07+00:00,2026-06-10T14:29:07+00:00
+3744,Carefree Resorts,Miscellaneous shops,true,VM,2026-06-10T14:29:07+00:00,2026-06-10T14:29:07+00:00
+3745,St. Regis Hotel,Transportation services,true,VM,2026-06-10T14:29:07+00:00,2026-06-10T14:29:07+00:00
+3746,The Eliot Hotel,Transportation services,true,VM,2026-06-10T14:29:07+00:00,2026-06-10T14:29:07+00:00
+3747,Club Corporation/Club Resorts,Miscellaneous shops,true,VM,2026-06-10T14:29:07+00:00,2026-06-10T14:29:07+00:00
+3748,Wellesley Inns,Miscellaneous shops,true,VM,2026-06-10T14:29:07+00:00,2026-06-10T14:29:07+00:00
+3749,Beverly Hills Hotel,Transportation services,true,VM,2026-06-10T14:29:07+00:00,2026-06-10T14:29:07+00:00
+3750,Crowne Plaza Hotels,Transportation services,true,VM,2026-06-10T14:29:07+00:00,2026-06-10T14:29:07+00:00
+3751,Homewood Suites,Miscellaneous shops,true,VM,2026-06-10T14:29:07+00:00,2026-06-10T14:29:07+00:00
+3752,Peabody Hotels,Transportation services,true,VM,2026-06-10T14:29:07+00:00,2026-06-10T14:29:07+00:00
+3753,Greenbriar Resorts,Miscellaneous shops,true,VM,2026-06-10T14:29:07+00:00,2026-06-10T14:29:07+00:00
+3754,Amelia Island Plantation,Miscellaneous shops,true,VM,2026-06-10T14:29:07+00:00,2026-06-10T14:29:07+00:00
+3755,Homestead,Miscellaneous shops,true,VM,2026-06-10T14:29:07+00:00,2026-06-10T14:29:07+00:00
+3757,Canyon Ranch,Miscellaneous shops,true,TSYS,2026-06-10T14:29:07+00:00,2026-06-10T14:29:07+00:00
+3758,Kahala Mandarin Oriental Hotel,Transportation services,true,VM,2026-06-10T14:29:07+00:00,2026-06-10T14:29:07+00:00
+3759,Orchid At Mauna Lai,Miscellaneous shops,true,VM,2026-06-10T14:29:07+00:00,2026-06-10T14:29:07+00:00
+3760,Halekulani Hotel/Waikiki Parc,Transportation services,true,VM,2026-06-10T14:29:07+00:00,2026-06-10T14:29:07+00:00
+3761,Primadonna Hotel and Casino,Transportation services,true,VM,2026-06-10T14:29:07+00:00,2026-06-10T14:29:07+00:00
+3762,Whiskey Pete’s Hotel and Casino,Transportation services,true,VM,2026-06-10T14:29:07+00:00,2026-06-10T14:29:07+00:00
+3763,Chateau Elan Winery and Resort,Miscellaneous shops,true,VM,2026-06-10T14:29:07+00:00,2026-06-10T14:29:07+00:00
+3764,Beau Rivage Hotel and Casino,Transportation services,true,VM,2026-06-10T14:29:07+00:00,2026-06-10T14:29:07+00:00
+3765,Bellagio,Miscellaneous shops,true,VM,2026-06-10T14:29:07+00:00,2026-06-10T14:29:07+00:00
+3766,Fremont Hotel and Casino,Transportation services,true,VM,2026-06-10T14:29:07+00:00,2026-06-10T14:29:07+00:00
+3767,Main Street Station Hotel and Casino,Transportation services,true,VM,2026-06-10T14:29:07+00:00,2026-06-10T14:29:07+00:00
+3768,Silver Star Hotel and Casino,Transportation services,true,VM,2026-06-10T14:29:07+00:00,2026-06-10T14:29:07+00:00
+3769,Stratosphere Hotel and Casino,Transportation services,true,VM,2026-06-10T14:29:07+00:00,2026-06-10T14:29:07+00:00
+3770,Springhill Suites,Miscellaneous shops,true,VM,2026-06-10T14:29:07+00:00,2026-06-10T14:29:07+00:00
+3771,Caesars Hotel and Casino,Transportation services,true,VM,2026-06-10T14:29:07+00:00,2026-06-10T14:29:07+00:00
+3772,Nemacolin Woodlands,Miscellaneous shops,true,VM,2026-06-10T14:29:07+00:00,2026-06-10T14:29:07+00:00
+3773,Venetian Resort Hotel and Casino,Transportation services,true,VM,2026-06-10T14:29:07+00:00,2026-06-10T14:29:07+00:00
+3774,New York-New York Hotel and Casino,Transportation services,true,VM,2026-06-10T14:29:07+00:00,2026-06-10T14:29:07+00:00
+3775,Sands Resort,Miscellaneous shops,true,VM,2026-06-10T14:29:07+00:00,2026-06-10T14:29:07+00:00
+3776,Nevele Grande Resort and Country Club,Miscellaneous shops,true,VM,2026-06-10T14:29:07+00:00,2026-06-10T14:29:07+00:00
+3777,Mandalay Bay Resort,Miscellaneous shops,true,VM,2026-06-10T14:29:07+00:00,2026-06-10T14:29:07+00:00
+3778,Four Points Hotels,Transportation services,true,VM,2026-06-10T14:29:07+00:00,2026-06-10T14:29:07+00:00
+3779,W Hotels,Transportation services,true,VM,2026-06-10T14:29:07+00:00,2026-06-10T14:29:07+00:00
+3780,Disneyland Resorts,Miscellaneous shops,true,VM,2026-06-10T14:29:07+00:00,2026-06-10T14:29:07+00:00
+3781,Patricia Grand Resort Hotels,Transportation services,true,VM,2026-06-10T14:29:07+00:00,2026-06-10T14:29:07+00:00
+3782,Rosen Hotel and Resorts,Transportation services,true,VM,2026-06-10T14:29:07+00:00,2026-06-10T14:29:07+00:00
+3783,Town and Country Resort and Convention Center,Miscellaneous shops,true,VM,2026-06-10T14:29:07+00:00,2026-06-10T14:29:07+00:00
+3784,First Hospitality Hotels,Transportation services,true,VM,2026-06-10T14:29:07+00:00,2026-06-10T14:29:07+00:00
+3785,Outrigger Hotels and Resorts,Transportation services,true,VM,2026-06-10T14:29:07+00:00,2026-06-10T14:29:07+00:00
+3786,Ohana Hotels of Hawaii,Transportation services,true,VM,2026-06-10T14:29:07+00:00,2026-06-10T14:29:07+00:00
+3787,Caribe Royal Resort Suite and Villas,Miscellaneous shops,true,VM,2026-06-10T14:29:07+00:00,2026-06-10T14:29:07+00:00
+3788,Ala Moana Hotel,Transportation services,true,VM,2026-06-10T14:29:07+00:00,2026-06-10T14:29:07+00:00
+3789,Smugglers Notch Resort,Miscellaneous shops,true,VM,2026-06-10T14:29:07+00:00,2026-06-10T14:29:07+00:00
+3790,Raffles Hotels,Transportation services,true,VM,2026-06-10T14:29:07+00:00,2026-06-10T14:29:07+00:00
+3791,Staybridge Suites,Miscellaneous shops,true,VM,2026-06-10T14:29:07+00:00,2026-06-10T14:29:07+00:00
+3792,Claridge Casino Hotel,Transportation services,true,VM,2026-06-10T14:29:07+00:00,2026-06-10T14:29:07+00:00
+3793,The Flamingo Hotels,Transportation services,true,VM,2026-06-10T14:29:07+00:00,2026-06-10T14:29:07+00:00
+3794,Grand Casino Hotels,Transportation services,true,VM,2026-06-10T14:29:07+00:00,2026-06-10T14:29:07+00:00
+3795,Paris Las Vegas Hotel,Transportation services,true,VM,2026-06-10T14:29:07+00:00,2026-06-10T14:29:07+00:00
+3796,Peppermill Hotel Casino,Transportation services,true,VM,2026-06-10T14:29:07+00:00,2026-06-10T14:29:07+00:00
+3797,Atlantic City Hilton,Miscellaneous shops,true,VM,2026-06-10T14:29:07+00:00,2026-06-10T14:29:07+00:00
+3798,Embassy Vacation Resort,Miscellaneous shops,true,VM,2026-06-10T14:29:07+00:00,2026-06-10T14:29:07+00:00
+3799,Hale Koa Hotel,Transportation services,true,VM,2026-06-10T14:29:07+00:00,2026-06-10T14:29:07+00:00
+3800,Homestead Suites,Miscellaneous shops,true,VM,2026-06-10T14:29:07+00:00,2026-06-10T14:29:07+00:00
+3801,Wilderness Hotel and Resort,Transportation services,true,VM,2026-06-10T14:29:07+00:00,2026-06-10T14:29:07+00:00
+3802,The Palace Hotel,Transportation services,true,VM,2026-06-10T14:29:07+00:00,2026-06-10T14:29:07+00:00
+3803,The Wigwam Golf Resort and Spa,Miscellaneous shops,true,M,2026-06-10T14:29:07+00:00,2026-06-10T14:29:07+00:00
+3804,The Diplomat Country Club and Spa,Miscellaneous shops,true,M,2026-06-10T14:29:07+00:00,2026-06-10T14:29:07+00:00
+3805,The Atlantic,Miscellaneous shops,true,M,2026-06-10T14:29:07+00:00,2026-06-10T14:29:07+00:00
+3806,Princeville Resort,Miscellaneous shops,true,M,2026-06-10T14:29:07+00:00,2026-06-10T14:29:07+00:00
+3807,Element,Miscellaneous shops,true,VM,2026-06-10T14:29:07+00:00,2026-06-10T14:29:07+00:00
+3808,LXR (Luxury Resorts),Miscellaneous shops,true,VM,2026-06-10T14:29:07+00:00,2026-06-10T14:29:07+00:00
+3809,Settle Inn,Miscellaneous shops,true,M,2026-06-10T14:29:07+00:00,2026-06-10T14:29:07+00:00
+3810,La Costa Resort,Miscellaneous shops,true,M,2026-06-10T14:29:07+00:00,2026-06-10T14:29:07+00:00
+3811,Premier Travel Inns,Transportation services,true,VM,2026-06-10T14:29:07+00:00,2026-06-10T14:29:07+00:00
+3812,Hyatt Place,Miscellaneous shops,true,VM,2026-06-10T14:29:07+00:00,2026-06-10T14:29:07+00:00
+3813,Hotel Indigo,Transportation services,true,VM,2026-06-10T14:29:07+00:00,2026-06-10T14:29:07+00:00
+3814,The Roosevelt Hotel NY,Transportation services,true,VM,2026-06-10T14:29:07+00:00,2026-06-10T14:29:07+00:00
+3815,Nickelodeon Family Suites by Holiday Inn,Miscellaneous shops,true,VM,2026-06-10T14:29:07+00:00,2026-06-10T14:29:07+00:00
+3816,Home2Suites,Miscellaneous shops,true,VM,2026-06-10T14:29:07+00:00,2026-06-10T14:29:07+00:00
+3817,Affinia,Miscellaneous shops,true,M,2026-06-10T14:29:07+00:00,2026-06-10T14:29:07+00:00
+3818,Mainstay Suites,Miscellaneous shops,true,VM,2026-06-10T14:29:07+00:00,2026-06-10T14:29:07+00:00
+3819,Oxford Suites,Miscellaneous shops,true,VM,2026-06-10T14:29:07+00:00,2026-06-10T14:29:07+00:00
+3820,Jumeirah Essex House,Miscellaneous shops,true,VM,2026-06-10T14:29:07+00:00,2026-06-10T14:29:07+00:00
+3821,Caribe Royal,Miscellaneous shops,true,VM,2026-06-10T14:29:07+00:00,2026-06-10T14:29:07+00:00
+3822,Crossland,Miscellaneous shops,true,VM,2026-06-10T14:29:07+00:00,2026-06-10T14:29:07+00:00
+3823,Grand Sierra Resort,Miscellaneous shops,true,VM,2026-06-10T14:29:07+00:00,2026-06-10T14:29:07+00:00
+3824,Aria,Miscellaneous shops,true,VM,2026-06-10T14:29:07+00:00,2026-06-10T14:29:07+00:00
+3825,Vdara,Miscellaneous shops,true,VM,2026-06-10T14:29:07+00:00,2026-06-10T14:29:07+00:00
+3826,Autograph,Miscellaneous shops,true,VM,2026-06-10T14:29:07+00:00,2026-06-10T14:29:07+00:00
+3827,Galt House,Miscellaneous shops,true,VM,2026-06-10T14:29:07+00:00,2026-06-10T14:29:07+00:00
+3828,Cosmopolitan of Las Vegas,Miscellaneous shops,true,VM,2026-06-10T14:29:07+00:00,2026-06-10T14:29:07+00:00
+3829,Country Inn By Carlson,Miscellaneous shops,true,VM,2026-06-10T14:29:07+00:00,2026-06-10T14:29:07+00:00
+3830,Park Plaza Hotel,Transportation services,true,VM,2026-06-10T14:29:07+00:00,2026-06-10T14:29:07+00:00
+3831,Waldorf,Miscellaneous shops,true,VM,2026-06-10T14:29:07+00:00,2026-06-10T14:29:07+00:00
+4011,Railroads–Freight,Miscellaneous shops,true,VM,2026-06-10T14:29:07+00:00,2026-06-10T14:29:07+00:00
+4111,"Transportation–Suburban and Local Commuter Passenger, including Ferries",Transportation services,true,VM,2026-06-10T14:29:07+00:00,2026-06-10T14:29:07+00:00
+4112,Passenger Railways,Transportation services,true,VM,2026-06-10T14:29:07+00:00,2026-06-10T14:29:07+00:00
+4119,Ambulance Services,Miscellaneous shops,true,VM,2026-06-10T14:29:07+00:00,2026-06-10T14:29:07+00:00
+4121,Taxicabs and Limousines,Transportation services,true,VM,2026-06-10T14:29:07+00:00,2026-06-10T14:29:07+00:00
+4131,Bus Lines,Transportation services,true,VM,2026-06-10T14:29:07+00:00,2026-06-10T14:29:07+00:00
+4214,"Motor Freight Carriers,Trucking–Local/Long Distance, Moving and Storage Companies, Local Delivery",Miscellaneous shops,true,VM,2026-06-10T14:29:07+00:00,2026-06-10T14:29:07+00:00
+4215,"Courier Services–Air and Ground, Freight Forwarders",Miscellaneous shops,true,VM,2026-06-10T14:29:07+00:00,2026-06-10T14:29:07+00:00
+4225,"Public Warehousing–Farm Products, Refrigerated Goods, Household Goods Storage",Miscellaneous shops,true,VM,2026-06-10T14:29:07+00:00,2026-06-10T14:29:07+00:00
+4411,Cruise Lines,Transportation services,true,VM,2026-06-10T14:29:07+00:00,2026-06-10T14:29:07+00:00
+4457,Boat Leases and Boat Rentals,Miscellaneous shops,true,VM,2026-06-10T14:29:07+00:00,2026-06-10T14:29:07+00:00
+4468,"Marinas, Marine Service/Supplies",Miscellaneous shops,true,VM,2026-06-10T14:29:07+00:00,2026-06-10T14:29:07+00:00
+4511,"Air Carriers, Airlines–not elsewhere classified",Transportation services,true,VM,2026-06-10T14:29:07+00:00,2026-06-10T14:29:07+00:00
+4582,"Airports, Airport Terminals, Flying Fields",Miscellaneous shops,true,VM,2026-06-10T14:29:07+00:00,2026-06-10T14:29:07+00:00
+4722,Travel Agencies and Tour Operators,Transportation services,true,VM,2026-06-10T14:29:07+00:00,2026-06-10T14:29:07+00:00
+4723,Package Tour Operators (Germany Only),Miscellaneous shops,true,V,2026-06-10T14:29:07+00:00,2026-06-10T14:29:07+00:00
+4761,Telemarketing of Travel Related Services and Vitamins,Transportation services,true,TSYS,2026-06-10T14:29:07+00:00,2026-06-10T14:29:07+00:00
+4784,"Bridge and Road Fees, Tolls",Transportation services,true,VM,2026-06-10T14:29:07+00:00,2026-06-10T14:29:07+00:00
+4789,Transportation Services Not Elsewhere Classified,Transportation services,true,VM,2026-06-10T14:29:07+00:00,2026-06-10T14:29:07+00:00
+4812,Telecommunication Equipment Including Telephone Sales,Utility services,true,VM,2026-06-10T14:29:07+00:00,2026-06-10T14:29:07+00:00
+4813,Key-Entry Telecom Merchant providing single local and long-distance phone calls using a central access number in a non-face-to-face environment using key entry,Miscellaneous shops,true,M,2026-06-10T14:29:07+00:00,2026-06-10T14:29:07+00:00
+4814,Telecommunication Services including but not limited to prepaid phone services and recurring phone services,Utility services,true,VM,2026-06-10T14:29:07+00:00,2026-06-10T14:29:07+00:00
+4816,Computer Network/Information Services,Business services,true,VM,2026-06-10T14:29:07+00:00,2026-06-10T14:29:07+00:00
+4821,Telegraph Services,Miscellaneous shops,true,VM,2026-06-10T14:29:07+00:00,2026-06-10T14:29:07+00:00
+4829,"Wire Transfer Money Orders (V, D, G, X); Money Transfer (M)",Miscellaneous shops,true,VM,2026-06-10T14:29:07+00:00,2026-06-10T14:29:07+00:00
+4899,"Cable, Satellite, and Other Pay Television and Radio Services",Utility services,true,VM,2026-06-10T14:29:07+00:00,2026-06-10T14:29:07+00:00
+4900,"Utilities–Electric, Gas, Heating Oil, Sanitary, Water",Utility services,true,VM,2026-06-10T14:29:07+00:00,2026-06-10T14:29:07+00:00
+5013,Motor Vehicle Supplies and New Parts,Miscellaneous shops,true,VM,2026-06-10T14:29:07+00:00,2026-06-10T14:29:07+00:00
+5021,Office and Commercial Furniture,Miscellaneous shops,true,VM,2026-06-10T14:29:07+00:00,2026-06-10T14:29:07+00:00
+5039,Construction Materials Not Elsewhere Classified,Miscellaneous shops,true,VM,2026-06-10T14:29:07+00:00,2026-06-10T14:29:07+00:00
+5044,"Office, Photographic, Photocopy and Microfilm Equipment",Miscellaneous shops,true,VM,2026-06-10T14:29:07+00:00,2026-06-10T14:29:07+00:00
+5045,"Computers, Computer Peripheral Equipment, Software",Business services,true,VM,2026-06-10T14:29:07+00:00,2026-06-10T14:29:07+00:00
+5046,Commercial Equipment Not Elsewhere Classified,Miscellaneous shops,true,VM,2026-06-10T14:29:07+00:00,2026-06-10T14:29:07+00:00
+5047,Dental/Laboratory/Medical/Ophthalmic Hospital Equipment and Supplies,Professional services and membership organizations,true,VM,2026-06-10T14:29:07+00:00,2026-06-10T14:29:07+00:00
+5051,Metal Service Centers and Offices,Miscellaneous shops,true,VM,2026-06-10T14:29:07+00:00,2026-06-10T14:29:07+00:00
+5065,Electrical Parts and Equipment,Miscellaneous shops,true,VM,2026-06-10T14:29:07+00:00,2026-06-10T14:29:07+00:00
+5072,Hardware Equipment and Supplies,Miscellaneous shops,true,VM,2026-06-10T14:29:07+00:00,2026-06-10T14:29:07+00:00
+5074,Plumbing and Heating Equipment,Miscellaneous shops,true,VM,2026-06-10T14:29:07+00:00,2026-06-10T14:29:07+00:00
+5085,Industrial Supplies Not Elsewhere Classified,Miscellaneous shops,true,VM,2026-06-10T14:29:07+00:00,2026-06-10T14:29:07+00:00
+5094,"Precious Stones and Metals, Watches and Jewelry",Miscellaneous shops,true,VM,2026-06-10T14:29:07+00:00,2026-06-10T14:29:07+00:00
+5099,Durable Goods Not Elsewhere Classified,Miscellaneous shops,true,VM,2026-06-10T14:29:07+00:00,2026-06-10T14:29:07+00:00
+5111,"Stationery, Office Supplies, Printing and Writing Paper",Miscellaneous shops,true,VM,2026-06-10T14:29:07+00:00,2026-06-10T14:29:07+00:00
+5122,"Drugs, Drug Proprietors and Druggists Sundries",Miscellaneous shops,true,VM,2026-06-10T14:29:07+00:00,2026-06-10T14:29:07+00:00
+5131,"Piece Goods, Notions, and Other Dry Goods",Miscellaneous shops,true,VM,2026-06-10T14:29:07+00:00,2026-06-10T14:29:07+00:00
+5137,"Men’s, Women’s and Children’s Uniforms and Commercial Clothing",Retail outlet services,true,VM,2026-06-10T14:29:07+00:00,2026-06-10T14:29:07+00:00
+5139,Commercial Footware,Miscellaneous shops,true,VM,2026-06-10T14:29:07+00:00,2026-06-10T14:29:07+00:00
+5169,Chemicals and Allied Products Not Elsewhere Classified,Miscellaneous shops,true,VM,2026-06-10T14:29:07+00:00,2026-06-10T14:29:07+00:00
+5172,Petroleum and Petroleum Products,Miscellaneous shops,true,VM,2026-06-10T14:29:07+00:00,2026-06-10T14:29:07+00:00
+5192,"Books, Periodicals and Newspapers",Professional services and membership organizations,true,VM,2026-06-10T14:29:07+00:00,2026-06-10T14:29:07+00:00
+5193,"Florists Supplies, Nursery Stock and Flowers",Miscellaneous shops,true,VM,2026-06-10T14:29:07+00:00,2026-06-10T14:29:07+00:00
+5198,"Paints, Varnishes and Supplies",Miscellaneous shops,true,VM,2026-06-10T14:29:07+00:00,2026-06-10T14:29:07+00:00
+5199,Non-Durable Goods Not Elsewhere Classified,Miscellaneous shops,true,VM,2026-06-10T14:29:07+00:00,2026-06-10T14:29:07+00:00
+5200,Home Supply Warehouse Stores,Retail outlet services,true,VM,2026-06-10T14:29:07+00:00,2026-06-10T14:29:07+00:00
+5211,"Building Materials, Lumber Stores",Retail outlet services,true,VM,2026-06-10T14:29:07+00:00,2026-06-10T14:29:07+00:00
+5231,"Glass, Paint, Wallpaper Stores",Retail outlet services,true,VM,2026-06-10T14:29:07+00:00,2026-06-10T14:29:07+00:00
+5251,Hardware Stores,Retail outlet services,true,VM,2026-06-10T14:29:07+00:00,2026-06-10T14:29:07+00:00
+5261,Lawn and Garden Supply Stores,Retail outlet services,true,VM,2026-06-10T14:29:07+00:00,2026-06-10T14:29:07+00:00
+5271,Mobile Home Dealers,Miscellaneous shops,true,VM,2026-06-10T14:29:07+00:00,2026-06-10T14:29:07+00:00
+5299,Warehouse Club Gas,Miscellaneous shops,true,TSYS,2026-06-10T14:29:07+00:00,2026-06-10T14:29:07+00:00
+5300,Wholesale Clubs,Retail outlet services,true,VM,2026-06-10T14:29:07+00:00,2026-06-10T14:29:07+00:00
+5309,Duty Free Stores,Retail outlet services,true,VM,2026-06-10T14:29:07+00:00,2026-06-10T14:29:07+00:00
+5310,Discount Stores,Retail outlet services,true,VM,2026-06-10T14:29:07+00:00,2026-06-10T14:29:07+00:00
+5311,Department Stores,Retail outlet services,true,VM,2026-06-10T14:29:07+00:00,2026-06-10T14:29:07+00:00
+5331,Variety Stores,Retail outlet services,true,VM,2026-06-10T14:29:07+00:00,2026-06-10T14:29:07+00:00
+5399,Miscellaneous General Merchandise Stores,Retail outlet services,true,VM,2026-06-10T14:29:07+00:00,2026-06-10T14:29:07+00:00
+5411,"Grocery Stores, Supermarkets",Retail outlet services,true,VM,2026-06-10T14:29:07+00:00,2026-06-10T14:29:07+00:00
+5422,Freezer and Locker Meat Provisioners,Miscellaneous shops,true,VM,2026-06-10T14:29:07+00:00,2026-06-10T14:29:07+00:00
+5441,"Candy, Nut and Confectionery Stores",Retail outlet services,true,VM,2026-06-10T14:29:07+00:00,2026-06-10T14:29:07+00:00
+5451,Dairy Products Stores,Retail outlet services,true,VM,2026-06-10T14:29:07+00:00,2026-06-10T14:29:07+00:00
+5462,Bakeries,Miscellaneous shops,true,VM,2026-06-10T14:29:07+00:00,2026-06-10T14:29:07+00:00
+5499,"Miscellaneous Food Stores–Convenience Stores, Markets, Specialty Stores, and Vending Machines",Retail outlet services,true,VM,2026-06-10T14:29:07+00:00,2026-06-10T14:29:07+00:00
+5511,"Automobile and Truck Dealers–Sales, Service, Repairs, Parts and Leasing",Miscellaneous shops,true,VM,2026-06-10T14:29:07+00:00,2026-06-10T14:29:07+00:00
+5521,Automobile and Truck Dealers–(Used Only)–Sales,Miscellaneous shops,true,VM,2026-06-10T14:29:07+00:00,2026-06-10T14:29:07+00:00
+5532,Automotive Tire Stores,Retail outlet services,true,VM,2026-06-10T14:29:07+00:00,2026-06-10T14:29:07+00:00
+5533,Automotive Parts and Accessories Stores,Retail outlet services,true,VM,2026-06-10T14:29:07+00:00,2026-06-10T14:29:07+00:00
+5541,Service Stations (With or Without Ancillary Services),Transportation services,true,VM,2026-06-10T14:29:07+00:00,2026-06-10T14:29:07+00:00
+5542,"Fuel Dispenser, Automated",Miscellaneous shops,true,VM,2026-06-10T14:29:07+00:00,2026-06-10T14:29:07+00:00
+5551,Boat Dealers,Miscellaneous shops,true,VM,2026-06-10T14:29:07+00:00,2026-06-10T14:29:07+00:00
+5561,"Camper Dealers, Recreational and Utility Trailers",Miscellaneous shops,true,VM,2026-06-10T14:29:07+00:00,2026-06-10T14:29:07+00:00
+5571,Motorcycle Shops and Dealers,Retail outlet services,true,VM,2026-06-10T14:29:07+00:00,2026-06-10T14:29:07+00:00
+5592,Motor Home Dealers,Miscellaneous shops,true,VM,2026-06-10T14:29:07+00:00,2026-06-10T14:29:07+00:00
+5598,Snowmobile Dealers,Miscellaneous shops,true,VM,2026-06-10T14:29:07+00:00,2026-06-10T14:29:07+00:00
+5599,"Miscellaneous Automotive, Aircraft, and Farm Equipment Dealers–Not Elsewhere Classified",Miscellaneous shops,true,VM,2026-06-10T14:29:07+00:00,2026-06-10T14:29:07+00:00
+5611,Men’s and Boys’ Clothing and Accessories Stores,Retail outlet services,true,VM,2026-06-10T14:29:07+00:00,2026-06-10T14:29:07+00:00
+5621,Women’s Ready to Wear Stores,Retail outlet services,true,VM,2026-06-10T14:29:07+00:00,2026-06-10T14:29:07+00:00
+5631,Women’s Accessory and Specialty Stores,Retail outlet services,true,VM,2026-06-10T14:29:07+00:00,2026-06-10T14:29:07+00:00
+5641,Children’s and Infants’ Wear Stores,Retail outlet services,true,VM,2026-06-10T14:29:07+00:00,2026-06-10T14:29:07+00:00
+5651,Family Clothing Stores,Retail outlet services,true,VM,2026-06-10T14:29:07+00:00,2026-06-10T14:29:07+00:00
+5655,"Sports Apparel, and Riding Apparel Stores",Miscellaneous shops,true,VM,2026-06-10T14:29:07+00:00,2026-06-10T14:29:07+00:00
+5661,Shoe Stores,Retail outlet services,true,VM,2026-06-10T14:29:07+00:00,2026-06-10T14:29:07+00:00
+5681,Furriers and Fur Shops,Retail outlet services,true,VM,2026-06-10T14:29:07+00:00,2026-06-10T14:29:07+00:00
+5691,Men’s and Women’s Clothing Stores,Retail outlet services,true,VM,2026-06-10T14:29:07+00:00,2026-06-10T14:29:07+00:00
+5697,"Alterations, Mending, Seamstresses, Tailors",Miscellaneous shops,true,VM,2026-06-10T14:29:07+00:00,2026-06-10T14:29:07+00:00
+5698,Wig and Toupee Shops,Retail outlet services,true,VM,2026-06-10T14:29:07+00:00,2026-06-10T14:29:07+00:00
+5699,Accessory and Apparel Stores–Miscellaneous,Retail outlet services,true,VM,2026-06-10T14:29:07+00:00,2026-06-10T14:29:07+00:00
+5712,"Equipment, Furniture and Home Furnishings Stores (except Appliances)",Retail outlet services,true,VM,2026-06-10T14:29:07+00:00,2026-06-10T14:29:07+00:00
+5713,Floor Covering Stores,Retail outlet services,true,VM,2026-06-10T14:29:07+00:00,2026-06-10T14:29:07+00:00
+5714,"Drapery, Upholstery and Window Coverings Stores",Retail outlet services,true,VM,2026-06-10T14:29:07+00:00,2026-06-10T14:29:07+00:00
+5718,"Fireplace, Fireplace Screens and Accessories Stores",Retail outlet services,true,VM,2026-06-10T14:29:07+00:00,2026-06-10T14:29:07+00:00
+5719,Miscellaneous House Furnishing Specialty Shops,Retail outlet services,true,VM,2026-06-10T14:29:07+00:00,2026-06-10T14:29:07+00:00
+5722,Household Appliance Stores,Retail outlet services,true,VM,2026-06-10T14:29:07+00:00,2026-06-10T14:29:07+00:00
+5732,Electronics Sales,Business services,true,VM,2026-06-10T14:29:07+00:00,2026-06-10T14:29:07+00:00
+5733,"Music Stores–Musical Instruments, Pianos and Sheet Music",Retail outlet services,true,VM,2026-06-10T14:29:07+00:00,2026-06-10T14:29:07+00:00
+5734,Computer Software Stores,Business services,true,VM,2026-06-10T14:29:07+00:00,2026-06-10T14:29:07+00:00
+5735,Record Shops,Retail outlet services,true,VM,2026-06-10T14:29:07+00:00,2026-06-10T14:29:07+00:00
+5811,Caterers,Miscellaneous shops,true,VM,2026-06-10T14:29:07+00:00,2026-06-10T14:29:07+00:00
+5812,Eating Places and Restaurants,Retail outlet services,true,VM,2026-06-10T14:29:07+00:00,2026-06-10T14:29:07+00:00
+5813,"Bars, Cocktail Lounges, Discotheques, Nightclubs and Taverns–Drinking Places (Alcoholic Beverages)",Retail outlet services,true,VM,2026-06-10T14:29:07+00:00,2026-06-10T14:29:07+00:00
+5814,Fast Food Restaurants,Retail outlet services,true,VM,2026-06-10T14:29:07+00:00,2026-06-10T14:29:07+00:00
+5815,"Digital Goods: Books, Movies, Music",Business services,true,VM,2026-06-10T14:29:07+00:00,2026-06-10T14:29:07+00:00
+5816,Digital Goods: Games,Business services,true,VM,2026-06-10T14:29:07+00:00,2026-06-10T14:29:07+00:00
+5817,Digital Goods: Applications (Excludes Games),Business services,true,VM,2026-06-10T14:29:07+00:00,2026-06-10T14:29:07+00:00
+5818,Digital Goods: Large Digital Goods Merchant (V); Digital Goods: Multi-Category (M),Business services,true,VM,2026-06-10T14:29:07+00:00,2026-06-10T14:29:07+00:00
+5912,Drug Stores and Pharmacies,Professional services and membership organizations,true,VM,2026-06-10T14:29:07+00:00,2026-06-10T14:29:07+00:00
+5921,"Package Stores–Beer, Wine and Liquor",Retail outlet services,true,VM,2026-06-10T14:29:07+00:00,2026-06-10T14:29:07+00:00
+5931,"Second Hand Stores, Used Merchandise Stores",Retail outlet services,true,VM,2026-06-10T14:29:07+00:00,2026-06-10T14:29:07+00:00
+5932,"Antique Shops–Sales, Repairs and Restoration Services",Retail outlet services,true,VM,2026-06-10T14:29:07+00:00,2026-06-10T14:29:07+00:00
+5933,Pawn Shops,Retail outlet services,true,VM,2026-06-10T14:29:07+00:00,2026-06-10T14:29:07+00:00
+5935,Wrecking and Salvage Yards,Miscellaneous shops,true,VM,2026-06-10T14:29:07+00:00,2026-06-10T14:29:07+00:00
+5937,Antique Reproduction Stores,Retail outlet services,true,VM,2026-06-10T14:29:07+00:00,2026-06-10T14:29:07+00:00
+5940,Bicycle Shops–Sales and Service,Retail outlet services,true,VM,2026-06-10T14:29:07+00:00,2026-06-10T14:29:07+00:00
+5941,Sporting Goods Stores,Retail outlet services,true,VM,2026-06-10T14:29:07+00:00,2026-06-10T14:29:07+00:00
+5942,Book Stores,Professional services and membership organizations,true,VM,2026-06-10T14:29:07+00:00,2026-06-10T14:29:07+00:00
+5943,"Office, School Supply and Stationery Stores",Retail outlet services,true,VM,2026-06-10T14:29:07+00:00,2026-06-10T14:29:07+00:00
+5944,"Clock, Jewelry, Watch and Silverware Stores",Retail outlet services,true,VM,2026-06-10T14:29:07+00:00,2026-06-10T14:29:07+00:00
+5945,"Game, Toy and Hobby Shops",Retail outlet services,true,VM,2026-06-10T14:29:07+00:00,2026-06-10T14:29:07+00:00
+5946,Camera and Photographic Supply Stores,Retail outlet services,true,VM,2026-06-10T14:29:07+00:00,2026-06-10T14:29:07+00:00
+5947,"Card, Gift, Novelty and Souvenir Shops",Retail outlet services,true,VM,2026-06-10T14:29:07+00:00,2026-06-10T14:29:07+00:00
+5948,Leather Goods and Luggage Stores,Retail outlet services,true,VM,2026-06-10T14:29:07+00:00,2026-06-10T14:29:07+00:00
+5949,"Fabric, Needlework, Piece Goods and Sewing Stores",Retail outlet services,true,VM,2026-06-10T14:29:07+00:00,2026-06-10T14:29:07+00:00
+5950,Crystal and Glassware Stores,Retail outlet services,true,VM,2026-06-10T14:29:07+00:00,2026-06-10T14:29:07+00:00
+5960,Direct Marketing Insurance Services,Miscellaneous shops,true,VM,2026-06-10T14:29:07+00:00,2026-06-10T14:29:07+00:00
+5961,Mail Order Houses Including Catalog Order Stores,Retail outlet services,true,TSYS,2026-06-10T14:29:07+00:00,2026-06-10T14:29:07+00:00
+5962,Direct Marketing–Travel Related Arrangement Services,Transportation services,true,VM,2026-06-10T14:29:07+00:00,2026-06-10T14:29:07+00:00
+5963,Door-to-Door Sales,Miscellaneous shops,true,VM,2026-06-10T14:29:07+00:00,2026-06-10T14:29:07+00:00
+5964,Direct Marketing–Catalog Merchants,Miscellaneous shops,true,VM,2026-06-10T14:29:07+00:00,2026-06-10T14:29:07+00:00
+5965,Direct Marketing–Combination Catalog and Retail Merchant,Retail outlet services,true,VM,2026-06-10T14:29:07+00:00,2026-06-10T14:29:07+00:00
+5966,Direct Marketing–Outbound Telemarketing Merchants,Miscellaneous shops,true,VM,2026-06-10T14:29:07+00:00,2026-06-10T14:29:07+00:00
+5967,Direct Marketing–Inbound Telemarketing Merchants,Miscellaneous shops,true,VM,2026-06-10T14:29:07+00:00,2026-06-10T14:29:07+00:00
+5968,Direct Marketing–Continuity/Subscription Merchants,Miscellaneous shops,true,VM,2026-06-10T14:29:07+00:00,2026-06-10T14:29:07+00:00
+5969,Direct Marketing–Other Direct Marketers–Not Elsewhere Classified,Miscellaneous shops,true,VM,2026-06-10T14:29:07+00:00,2026-06-10T14:29:07+00:00
+5970,"Artist Supply Stores, Craft Shops",Retail outlet services,true,VM,2026-06-10T14:29:07+00:00,2026-06-10T14:29:07+00:00
+5971,Art Dealers and Galleries,Miscellaneous shops,true,VM,2026-06-10T14:29:07+00:00,2026-06-10T14:29:07+00:00
+5972,Stamp and Coin Stores–Philatelic and Numismatic Supplies,Retail outlet services,true,VM,2026-06-10T14:29:07+00:00,2026-06-10T14:29:07+00:00
+5973,Religious Goods Stores,Retail outlet services,true,VM,2026-06-10T14:29:07+00:00,2026-06-10T14:29:07+00:00
+5974,Rubber Stamp Store,Miscellaneous shops,true,TSYS,2026-06-10T14:29:07+00:00,2026-06-10T14:29:07+00:00
+5975,"Hearing Aids–Sales, Service, Supply Stores",Retail outlet services,true,VM,2026-06-10T14:29:07+00:00,2026-06-10T14:29:07+00:00
+5976,Orthopedic Goods–Artificial Limb Stores,Retail outlet services,true,VM,2026-06-10T14:29:07+00:00,2026-06-10T14:29:07+00:00
+5977,Cosmetic Stores,Miscellaneous shops,true,VM,2026-06-10T14:29:07+00:00,2026-06-10T14:29:07+00:00
+5978,"Typewriter Stores–Rentals, Sales, Service",Retail outlet services,true,VM,2026-06-10T14:29:07+00:00,2026-06-10T14:29:07+00:00
+5983,"Fuel Dealers–Coal, Fuel Oil, Liquefied Petroleum, Wood",Miscellaneous shops,true,VM,2026-06-10T14:29:07+00:00,2026-06-10T14:29:07+00:00
+5992,Florists,Miscellaneous shops,true,VM,2026-06-10T14:29:07+00:00,2026-06-10T14:29:07+00:00
+5993,Cigar Stores and Stands,Retail outlet services,true,VM,2026-06-10T14:29:07+00:00,2026-06-10T14:29:07+00:00
+5994,News Dealers and Newsstands,Miscellaneous shops,true,VM,2026-06-10T14:29:07+00:00,2026-06-10T14:29:07+00:00
+5995,"Pet Shops, Pet Food and Supplies",Retail outlet services,true,VM,2026-06-10T14:29:07+00:00,2026-06-10T14:29:07+00:00
+5996,Swimming Pools–Sales and Supplies,Miscellaneous shops,true,VM,2026-06-10T14:29:07+00:00,2026-06-10T14:29:07+00:00
+5997,Electric Razor Stores–Sales and Service,Retail outlet services,true,VM,2026-06-10T14:29:07+00:00,2026-06-10T14:29:07+00:00
+5998,Tent and Awning Shops,Retail outlet services,true,VM,2026-06-10T14:29:07+00:00,2026-06-10T14:29:07+00:00
+5999,Miscellaneous and Specialty Retail Stores,Retail outlet services,true,VM,2026-06-10T14:29:07+00:00,2026-06-10T14:29:07+00:00
+6010,Member Financial Institution–Manual Cash Disbursements,Miscellaneous shops,true,VM,2026-06-10T14:29:07+00:00,2026-06-10T14:29:07+00:00
+6011,Member Financial Institution–Automated Cash Disbursements,Miscellaneous shops,true,VM,2026-06-10T14:29:07+00:00,2026-06-10T14:29:07+00:00
+6012,Member Financial Institution–Merchandise And Services,Miscellaneous shops,true,VM,2026-06-10T14:29:07+00:00,2026-06-10T14:29:07+00:00
+6050,Quasi Cash–Member Financial Institution,Miscellaneous shops,true,M,2026-06-10T14:29:07+00:00,2026-06-10T14:29:07+00:00
+6051,Quasi Cash–Merchant,Miscellaneous shops,true,VM,2026-06-10T14:29:07+00:00,2026-06-10T14:29:07+00:00
+6211,Securities–Brokers and Dealers,Miscellaneous shops,true,VM,2026-06-10T14:29:07+00:00,2026-06-10T14:29:07+00:00
+6236,Aero Servicio Carabobo,Miscellaneous shops,true,TSYS,2026-06-10T14:29:07+00:00,2026-06-10T14:29:07+00:00
+6300,"Insurance Sales, Underwriting and Premiums",Miscellaneous shops,true,VM,2026-06-10T14:29:07+00:00,2026-06-10T14:29:07+00:00
+6381,Insurance–Premiums,Miscellaneous shops,true,TSYS,2026-06-10T14:29:07+00:00,2026-06-10T14:29:07+00:00
+6513,Real Estate Agents and Managers–Rentals,Miscellaneous shops,true,VM,2026-06-10T14:29:07+00:00,2026-06-10T14:29:07+00:00
+6529,Remote Stored Value Load — Member Financial Institution,Miscellaneous shops,true,TSYS,2026-06-10T14:29:07+00:00,2026-06-10T14:29:07+00:00
+6530,Remove Stored Value Load — Merchant,Miscellaneous shops,true,TSYS,2026-06-10T14:29:07+00:00,2026-06-10T14:29:07+00:00
+6535,Value Purchase–Member Financial Institution,Miscellaneous shops,true,TSYS,2026-06-10T14:29:07+00:00,2026-06-10T14:29:07+00:00
+6536,MoneySend Intracountry,Miscellaneous shops,true,M,2026-06-10T14:29:07+00:00,2026-06-10T14:29:07+00:00
+6537,MoneySend Intercountry,Miscellaneous shops,true,M,2026-06-10T14:29:07+00:00,2026-06-10T14:29:07+00:00
+6538,MoneySend Funding,Miscellaneous shops,true,M,2026-06-10T14:29:07+00:00,2026-06-10T14:29:07+00:00
+6539,Funding Transaction (Excluding MoneySend),Miscellaneous shops,true,M,2026-06-10T14:29:07+00:00,2026-06-10T14:29:07+00:00
+6540,POI (Point of Interaction) Funding Transactions (Excluding MoneySend),Miscellaneous shops,true,M,2026-06-10T14:29:07+00:00,2026-06-10T14:29:07+00:00
+6611,Overpayments,Miscellaneous shops,true,TSYS,2026-06-10T14:29:07+00:00,2026-06-10T14:29:07+00:00
+6760,Savings Bonds,Miscellaneous shops,true,TSYS,2026-06-10T14:29:07+00:00,2026-06-10T14:29:07+00:00
+7011,"Lodging–Hotels, Motels, Resorts–not elsewhere classified",Transportation services,true,VM,2026-06-10T14:29:07+00:00,2026-06-10T14:29:07+00:00
+7012,Timeshares,Miscellaneous shops,true,VM,2026-06-10T14:29:07+00:00,2026-06-10T14:29:07+00:00
+7032,Sporting and Recreational Camps,Miscellaneous shops,true,VM,2026-06-10T14:29:07+00:00,2026-06-10T14:29:07+00:00
+7033,Campgrounds and Trailer Parks,Miscellaneous shops,true,VM,2026-06-10T14:29:07+00:00,2026-06-10T14:29:07+00:00
+7210,"Cleaning, Garment and Laundry Services",Miscellaneous shops,true,VM,2026-06-10T14:29:07+00:00,2026-06-10T14:29:07+00:00
+7211,Laundry Services–Family and Commercial,Miscellaneous shops,true,VM,2026-06-10T14:29:07+00:00,2026-06-10T14:29:07+00:00
+7216,Dry Cleaners,Miscellaneous shops,true,VM,2026-06-10T14:29:07+00:00,2026-06-10T14:29:07+00:00
+7217,Carpet and Upholstery Cleaning,Miscellaneous shops,true,VM,2026-06-10T14:29:07+00:00,2026-06-10T14:29:07+00:00
+7221,Photographic Studios,Miscellaneous shops,true,VM,2026-06-10T14:29:07+00:00,2026-06-10T14:29:07+00:00
+7230,Barber and Beauty Shops,Miscellaneous shops,true,VM,2026-06-10T14:29:07+00:00,2026-06-10T14:29:07+00:00
+7251,"Hat Cleaning Shops, Shoe Repair Shops, Shoe Shine Parlors",Retail outlet services,true,VM,2026-06-10T14:29:07+00:00,2026-06-10T14:29:07+00:00
+7261,Funeral Service and Crematories,Miscellaneous shops,true,VM,2026-06-10T14:29:07+00:00,2026-06-10T14:29:07+00:00
+7273,Dating Services,Miscellaneous shops,true,VM,2026-06-10T14:29:07+00:00,2026-06-10T14:29:07+00:00
+7276,Tax Preparation Service,Miscellaneous shops,true,VM,2026-06-10T14:29:07+00:00,2026-06-10T14:29:07+00:00
+7277,"Debt, Marriage, Personal–Counseling Services",Miscellaneous shops,true,VM,2026-06-10T14:29:07+00:00,2026-06-10T14:29:07+00:00
+7278,"Buying/Shopping Clubs, Services",Miscellaneous shops,true,VM,2026-06-10T14:29:07+00:00,2026-06-10T14:29:07+00:00
+7280,Hospital Patient-Personal Funds Withdrawal,Professional services and membership organizations,true,TSYS,2026-06-10T14:29:07+00:00,2026-06-10T14:29:07+00:00
+7295,Babysitting Services,Miscellaneous shops,true,TSYS,2026-06-10T14:29:07+00:00,2026-06-10T14:29:07+00:00
+7296,"Clothing Rental–Costumes, Uniforms and Formal Wear",Retail outlet services,true,VM,2026-06-10T14:29:07+00:00,2026-06-10T14:29:07+00:00
+7297,Massage Parlors,Miscellaneous shops,true,VM,2026-06-10T14:29:07+00:00,2026-06-10T14:29:07+00:00
+7298,Health and Beauty Spas,Miscellaneous shops,true,VM,2026-06-10T14:29:07+00:00,2026-06-10T14:29:07+00:00
+7299,Other Services–Not Elsewhere Classified,Miscellaneous shops,true,VM,2026-06-10T14:29:07+00:00,2026-06-10T14:29:07+00:00
+7311,Advertising Services,Miscellaneous shops,true,VM,2026-06-10T14:29:07+00:00,2026-06-10T14:29:07+00:00
+7321,Consumer Credit Reporting Agencies,Miscellaneous shops,true,VM,2026-06-10T14:29:07+00:00,2026-06-10T14:29:07+00:00
+7332,Blueprinting and Photocopying Services,Miscellaneous shops,true,TSYS,2026-06-10T14:29:07+00:00,2026-06-10T14:29:07+00:00
+7333,"Commercial Art, Graphics, Photography",Miscellaneous shops,true,VM,2026-06-10T14:29:07+00:00,2026-06-10T14:29:07+00:00
+7338,"Quick Copy, Reproduction and Blueprinting Services",Miscellaneous shops,true,VM,2026-06-10T14:29:07+00:00,2026-06-10T14:29:07+00:00
+7339,Stenographic and Secretarial Support Services,Miscellaneous shops,true,VM,2026-06-10T14:29:07+00:00,2026-06-10T14:29:07+00:00
+7342,Exterminating and Disinfecting Services,Miscellaneous shops,true,VM,2026-06-10T14:29:07+00:00,2026-06-10T14:29:07+00:00
+7349,"Cleaning and Maintenance, Janitorial Services",Miscellaneous shops,true,VM,2026-06-10T14:29:07+00:00,2026-06-10T14:29:07+00:00
+7361,Employment Agencies and Temporary Help Services,Miscellaneous shops,true,VM,2026-06-10T14:29:07+00:00,2026-06-10T14:29:07+00:00
+7372,"Computer Programming, Data Processing and Integrated System Design Services",Business services,true,VM,2026-06-10T14:29:07+00:00,2026-06-10T14:29:07+00:00
+7375,Information Retrieval Services,Miscellaneous shops,true,VM,2026-06-10T14:29:07+00:00,2026-06-10T14:29:07+00:00
+7379,"Computer Maintenance, Repair And Services–Not Elsewhere Classified",Business services,true,VM,2026-06-10T14:29:07+00:00,2026-06-10T14:29:07+00:00
+7392,"Consulting, Management and Public Relations Services",Miscellaneous shops,true,VM,2026-06-10T14:29:07+00:00,2026-06-10T14:29:07+00:00
+7393,"Detective Agencies, Protective Agencies, Security Services including Armored Cars, Guard Dogs",Miscellaneous shops,true,VM,2026-06-10T14:29:07+00:00,2026-06-10T14:29:07+00:00
+7394,"Equipment Rental and Leasing Services, Furniture Rental, Tool Rental",Miscellaneous shops,true,VM,2026-06-10T14:29:07+00:00,2026-06-10T14:29:07+00:00
+7395,"Photo Developing, Photofinishing Laboratories",Miscellaneous shops,true,VM,2026-06-10T14:29:07+00:00,2026-06-10T14:29:07+00:00
+7399,Business Services Not Elsewhere Classified,Miscellaneous shops,true,VM,2026-06-10T14:29:07+00:00,2026-06-10T14:29:07+00:00
+7512,Automobile Rental Agency–Not Elsewhere Classified,Miscellaneous shops,true,VM,2026-06-10T14:29:07+00:00,2026-06-10T14:29:07+00:00
+7513,Truck Rental,Miscellaneous shops,true,VM,2026-06-10T14:29:07+00:00,2026-06-10T14:29:07+00:00
+7519,Motor Home and Recreational Vehicle Rental,Miscellaneous shops,true,VM,2026-06-10T14:29:07+00:00,2026-06-10T14:29:07+00:00
+7523,Automobile Parking Lots and Garages,Miscellaneous shops,true,VM,2026-06-10T14:29:07+00:00,2026-06-10T14:29:07+00:00
+7524,Express Payment Service Merchants–Parking Lots and Garages,Miscellaneous shops,true,TSYS,2026-06-10T14:29:07+00:00,2026-06-10T14:29:07+00:00
+7531,Automotive Body Repair Shops,Retail outlet services,true,VM,2026-06-10T14:29:07+00:00,2026-06-10T14:29:07+00:00
+7534,Tire Retreading and Repair Shops,Retail outlet services,true,VM,2026-06-10T14:29:07+00:00,2026-06-10T14:29:07+00:00
+7535,Automotive Paint Shops,Retail outlet services,true,VM,2026-06-10T14:29:07+00:00,2026-06-10T14:29:07+00:00
+7538,Automotive Service Shops,Retail outlet services,true,VM,2026-06-10T14:29:07+00:00,2026-06-10T14:29:07+00:00
+7542,Car Washes,Miscellaneous shops,true,VM,2026-06-10T14:29:07+00:00,2026-06-10T14:29:07+00:00
+7549,Towing Services,Miscellaneous shops,true,VM,2026-06-10T14:29:07+00:00,2026-06-10T14:29:07+00:00
+7622,Electronic Repair Shops,Retail outlet services,true,VM,2026-06-10T14:29:07+00:00,2026-06-10T14:29:07+00:00
+7623,Air Conditioning and Refrigeration Repair Shops,Retail outlet services,true,VM,2026-06-10T14:29:07+00:00,2026-06-10T14:29:07+00:00
+7629,"Appliance Repair Shops, Electrical and Small",Retail outlet services,true,VM,2026-06-10T14:29:07+00:00,2026-06-10T14:29:07+00:00
+7631,"Clock, Jewelry and Watch Repair Shops",Retail outlet services,true,VM,2026-06-10T14:29:07+00:00,2026-06-10T14:29:07+00:00
+7641,"Furniture–Reupholstery, Repair and Refinishing",Miscellaneous shops,true,VM,2026-06-10T14:29:07+00:00,2026-06-10T14:29:07+00:00
+7692,Welding Repair,Miscellaneous shops,true,VM,2026-06-10T14:29:07+00:00,2026-06-10T14:29:07+00:00
+7699,Miscellaneous Repair Shops and Related Services,Retail outlet services,true,VM,2026-06-10T14:29:07+00:00,2026-06-10T14:29:07+00:00
+7800,Government Owned Lottery,Miscellaneous shops,true,VM,2026-06-10T14:29:07+00:00,2026-06-10T14:29:07+00:00
+7801,Government-Licensed Casinos (Online or Internet Gambling),Miscellaneous shops,true,VM,2026-06-10T14:29:07+00:00,2026-06-10T14:29:07+00:00
+7802,Government-Licensed Horse/Dog Racing,Miscellaneous shops,true,VM,2026-06-10T14:29:07+00:00,2026-06-10T14:29:07+00:00
+7829,Motion Picture and Video Tape Production and Distribution,Miscellaneous shops,true,VM,2026-06-10T14:29:07+00:00,2026-06-10T14:29:07+00:00
+7832,Motion Picture Theaters,Miscellaneous shops,true,VM,2026-06-10T14:29:07+00:00,2026-06-10T14:29:07+00:00
+7833,Express Payment Service — Motion Picture Theater,Miscellaneous shops,true,TSYS,2026-06-10T14:29:07+00:00,2026-06-10T14:29:07+00:00
+7841,DVD/Video Tape Rental Stores,Retail outlet services,true,VM,2026-06-10T14:29:07+00:00,2026-06-10T14:29:07+00:00
+7911,"Dance Halls, Schools and Studios",Professional services and membership organizations,true,VM,2026-06-10T14:29:07+00:00,2026-06-10T14:29:07+00:00
+7922,"Theatrical Producers (Except Motion Pictures), Ticket Agencies",Miscellaneous shops,true,VM,2026-06-10T14:29:07+00:00,2026-06-10T14:29:07+00:00
+7929,"Bands, Orchestras and Miscellaneous Entertainers– Not Elsewhere Classified",Miscellaneous shops,true,VM,2026-06-10T14:29:07+00:00,2026-06-10T14:29:07+00:00
+7932,Pool and Billiard Establishments,Miscellaneous shops,true,VM,2026-06-10T14:29:07+00:00,2026-06-10T14:29:07+00:00
+7933,Bowling Alleys,Miscellaneous shops,true,VM,2026-06-10T14:29:07+00:00,2026-06-10T14:29:07+00:00
+7941,"Athletic Fields, Commercial Sports, Professional Sports Clubs, Sports Promoters",Miscellaneous shops,true,VM,2026-06-10T14:29:07+00:00,2026-06-10T14:29:07+00:00
+7991,Tourist Attractions and Exhibits,Miscellaneous shops,true,VM,2026-06-10T14:29:07+00:00,2026-06-10T14:29:07+00:00
+7992,"Golf Courses, Public",Miscellaneous shops,true,VM,2026-06-10T14:29:07+00:00,2026-06-10T14:29:07+00:00
+7993,Video Amusement Game Supplies,Miscellaneous shops,true,VM,2026-06-10T14:29:07+00:00,2026-06-10T14:29:07+00:00
+7994,Video Game Arcades and Establishments,Miscellaneous shops,true,VM,2026-06-10T14:29:07+00:00,2026-06-10T14:29:07+00:00
+7995,"Betting (Sportsbook, fantasy, social gaming; when regulated and not covered by other MCCs) (D)",Professional services and membership organizations,true,VM,2026-06-10T14:29:07+00:00,2026-06-10T14:29:07+00:00
+7996,"Amusement Parks, Carnivals, Circuses, Carnivals, Fortune Tellers",Miscellaneous shops,true,VM,2026-06-10T14:29:07+00:00,2026-06-10T14:29:07+00:00
+7997,"Clubs–Country Clubs, Membership (Athletic, Recreation, Sports), Private Golf Courses",Miscellaneous shops,true,VM,2026-06-10T14:29:07+00:00,2026-06-10T14:29:07+00:00
+7998,"Aquariums, Dolphinariums, Zoos and Seaquariums",Miscellaneous shops,true,VM,2026-06-10T14:29:07+00:00,2026-06-10T14:29:07+00:00
+7999,Recreation Services–Not Elsewhere Classified,Miscellaneous shops,true,VM,2026-06-10T14:29:07+00:00,2026-06-10T14:29:07+00:00
+8011,Doctors–not elsewhere classified,Professional services and membership organizations,true,VM,2026-06-10T14:29:07+00:00,2026-06-10T14:29:07+00:00
+8021,Dentists and Orthodontists,Professional services and membership organizations,true,VM,2026-06-10T14:29:07+00:00,2026-06-10T14:29:07+00:00
+8031,Osteopathic Physicians,Miscellaneous shops,true,VM,2026-06-10T14:29:07+00:00,2026-06-10T14:29:07+00:00
+8041,Chiropractors,Professional services and membership organizations,true,VM,2026-06-10T14:29:07+00:00,2026-06-10T14:29:07+00:00
+8042,Optometrists and Ophthalmologists,Miscellaneous shops,true,VM,2026-06-10T14:29:07+00:00,2026-06-10T14:29:07+00:00
+8043,"Opticians, Optical Goods and Eyeglasses",Professional services and membership organizations,true,VM,2026-06-10T14:29:07+00:00,2026-06-10T14:29:07+00:00
+8044,Optical Goods and Eyeglasses,Miscellaneous shops,true,TSYS,2026-06-10T14:29:07+00:00,2026-06-10T14:29:07+00:00
+8049,"Chiropodists, Podiatrists",Professional services and membership organizations,true,VM,2026-06-10T14:29:07+00:00,2026-06-10T14:29:07+00:00
+8050,Nursing and Personal Care Facilities,Miscellaneous shops,true,VM,2026-06-10T14:29:07+00:00,2026-06-10T14:29:07+00:00
+8062,Hospitals,Professional services and membership organizations,true,VM,2026-06-10T14:29:07+00:00,2026-06-10T14:29:07+00:00
+8071,Dental and Medical Laboratories,Professional services and membership organizations,true,VM,2026-06-10T14:29:07+00:00,2026-06-10T14:29:07+00:00
+8099,"Health Practitioners, Medical Services–Not Elsewhere Classified",Professional services and membership organizations,true,VM,2026-06-10T14:29:07+00:00,2026-06-10T14:29:07+00:00
+8111,"Attorneys, Legal Services",Miscellaneous shops,true,VM,2026-06-10T14:29:07+00:00,2026-06-10T14:29:07+00:00
+8211,"Schools, Elementary and Secondary",Professional services and membership organizations,true,VM,2026-06-10T14:29:07+00:00,2026-06-10T14:29:07+00:00
+8220,"Colleges, Universities, Professional Schools and Junior Colleges",Professional services and membership organizations,true,VM,2026-06-10T14:29:07+00:00,2026-06-10T14:29:07+00:00
+8241,"Schools, Correspondence",Professional services and membership organizations,true,VM,2026-06-10T14:29:07+00:00,2026-06-10T14:29:07+00:00
+8244,"Schools, Business and Secretarial",Professional services and membership organizations,true,VM,2026-06-10T14:29:07+00:00,2026-06-10T14:29:07+00:00
+8249,"Schools, Trade and Vocational",Professional services and membership organizations,true,VM,2026-06-10T14:29:07+00:00,2026-06-10T14:29:07+00:00
+8299,Schools And Educational Services–Not Elsewhere Classified,Professional services and membership organizations,true,VM,2026-06-10T14:29:07+00:00,2026-06-10T14:29:07+00:00
+8351,Child Care Services,Miscellaneous shops,true,VM,2026-06-10T14:29:07+00:00,2026-06-10T14:29:07+00:00
+8398,"Organizations, Charitable and Social Service",Miscellaneous shops,true,VM,2026-06-10T14:29:07+00:00,2026-06-10T14:29:07+00:00
+8641,"Associations–Civic, Social and Fraternal",Miscellaneous shops,true,VM,2026-06-10T14:29:07+00:00,2026-06-10T14:29:07+00:00
+8651,"Organizations, Political",Miscellaneous shops,true,VM,2026-06-10T14:29:07+00:00,2026-06-10T14:29:07+00:00
+8661,"Organizations, Religious",Miscellaneous shops,true,VM,2026-06-10T14:29:07+00:00,2026-06-10T14:29:07+00:00
+8675,Automobile Associations,Miscellaneous shops,true,VM,2026-06-10T14:29:07+00:00,2026-06-10T14:29:07+00:00
+8699,"Organizations, Membership–Not Elsewhere Classified",Miscellaneous shops,true,VM,2026-06-10T14:29:07+00:00,2026-06-10T14:29:07+00:00
+8734,Testing Laboratories (Non-Medical),Professional services and membership organizations,true,VM,2026-06-10T14:29:07+00:00,2026-06-10T14:29:07+00:00
+8743,Testing Laboratories (Non-Medical),Professional services and membership organizations,true,TSYS,2026-06-10T14:29:07+00:00,2026-06-10T14:29:07+00:00
+8911,"Architectural, Engineering and Surveying Services",Miscellaneous shops,true,VM,2026-06-10T14:29:07+00:00,2026-06-10T14:29:07+00:00
+8931,"Accounting, Auditing and Bookkeeping Services",Professional services and membership organizations,true,VM,2026-06-10T14:29:07+00:00,2026-06-10T14:29:07+00:00
+8999,Professional Services–Not Elsewhere Classified,Miscellaneous shops,true,VM,2026-06-10T14:29:07+00:00,2026-06-10T14:29:07+00:00
+9034,I-Purchasing Pilot,Miscellaneous shops,true,TSYS,2026-06-10T14:29:07+00:00,2026-06-10T14:29:07+00:00
+9211,Court Costs Including Alimony and Child Support,Miscellaneous shops,true,VM,2026-06-10T14:29:07+00:00,2026-06-10T14:29:07+00:00
+9222,Fines,Miscellaneous shops,true,VM,2026-06-10T14:29:07+00:00,2026-06-10T14:29:07+00:00
+9223,Bail and Bond Payments,Miscellaneous shops,true,VM,2026-06-10T14:29:07+00:00,2026-06-10T14:29:07+00:00
+9311,Tax Payments,Miscellaneous shops,true,VM,2026-06-10T14:29:07+00:00,2026-06-10T14:29:07+00:00
+9399,Government Services–Not Elsewhere Classified,Miscellaneous shops,true,VM,2026-06-10T14:29:07+00:00,2026-06-10T14:29:07+00:00
+9401,I-Purchasing Pilot,Miscellaneous shops,true,TSYS,2026-06-10T14:29:07+00:00,2026-06-10T14:29:07+00:00
+9402,Postal Services–Government Only,Miscellaneous shops,true,VM,2026-06-10T14:29:07+00:00,2026-06-10T14:29:07+00:00
+9405,Intra-Government Purchases–Government Only,Miscellaneous shops,true,VM,2026-06-10T14:29:07+00:00,2026-06-10T14:29:07+00:00
+9700,Automated Referral Service,Miscellaneous shops,true,V,2026-06-10T14:29:07+00:00,2026-06-10T14:29:07+00:00
+9701,Visa Credential Server,Miscellaneous shops,true,V,2026-06-10T14:29:07+00:00,2026-06-10T14:29:07+00:00
+9702,GCAS Emergency Services,Miscellaneous shops,true,V,2026-06-10T14:29:07+00:00,2026-06-10T14:29:07+00:00
+9751,"UK Supermarkets, Electronic Hot File",Miscellaneous shops,true,TSYS,2026-06-10T14:29:07+00:00,2026-06-10T14:29:07+00:00
+9752,"UK Petrol Stations, Electronic Hot File",Miscellaneous shops,true,TSYS,2026-06-10T14:29:07+00:00,2026-06-10T14:29:07+00:00
+9754,"Gambling-Horse, Dog Racing, State Lottery",Miscellaneous shops,true,M,2026-06-10T14:29:07+00:00,2026-06-10T14:29:07+00:00
+9950,Intra-Company Purchases,Miscellaneous shops,true,VM,2026-06-10T14:29:07+00:00,2026-06-10T14:29:07+00:00
