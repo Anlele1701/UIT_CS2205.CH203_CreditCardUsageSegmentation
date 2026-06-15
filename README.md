@@ -1,8 +1,5 @@
 # CS2205.CH203 — Scientific Research Methodology
 
-<h1 align="center"><b>CS2205.JAN2026 — Phương pháp Nghiên cứu Khoa học</b></h1>
-<p align="center"><i>Scientific Research Methodology</i></p>
-
 ## Giới thiệu
 
 - **Tên môn học:** PHƯƠNG PHÁP LUẬN NGHIÊN CỨU KHOA HỌC — Research Methodology
